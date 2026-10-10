@@ -1,0 +1,38 @@
+# Local/source inputs
+*.pdf
+*.PDF
+
+# ADT book internals that must not be published from this repo
+*.db
+*.sqlite
+*.sqlite3
+.cache/
+cache/
+logs/
+llm-logs/
+prompts/
+responses/
+debug/
+screenshots/
+renders/
+
+# Secrets and local machine state
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.pfx
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Dependency/build output
+node_modules/
+dist/
+build/
+out/
+coverage/
