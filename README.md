@@ -1,17 +1,22 @@
-# Biology Form 2 New Final ADT Conversion
+# Biology for Secondary Schools - Form Two
 
-Repository for coordinating the ADT Studio conversion of the Biology Form 2 source PDF.
+Static ADT Studio HTML/CSS conversion of **Biology for Secondary Schools, Student's Book, Form Two**.
 
-## Source
+## Open
 
-- Source PDF: stored locally outside this repository
-- ADT Studio checkout: maintained separately from this repository
-- Intended ADT book label: `biology-form-2-new-final`
+Open `index.html` in a browser, or serve this repository with any static web server.
 
-The source PDF is not stored in this repository. ADT Studio conversion artifacts should remain in the ADT book directory for `biology-form-2-new-final`, not in this coordination repository.
+## Contents
+
+- Fixed-layout HTML pages for the converted book
+- Shared CSS and JavaScript reader runtime
+- Extracted page images, figures, fonts, and navigation metadata
+- Generated quiz pages
+
+## Not Included
+
+This repository intentionally does not include the source PDF, ADT SQLite database, LLM logs, prompts, caches, API keys, audio cache, or local audit/debug files.
 
 ## Conversion Notes
 
-This book should be converted through ADT Studio using the `adt-book-conversion` workflow. The conversion must preserve semantic HTML, inspectable LLM calls, source-backed page layout decisions, and page-by-page fidelity records.
-
-Do not publish generated static output until the conversion has passed visual and semantic audit.
+This is a first static web conversion pass. The output is real HTML/CSS with selectable text, not full-page screenshot facsimiles. Known follow-up items include typography weight, footer/header artwork fidelity, and some index/back-matter line spacing.

@@ -1,0 +1,5209 @@
+{
+  "ABO blood grouping system": {
+    "word": "ABO blood grouping system",
+    "definition": "a system that groups human blood into A, B, AB, and O",
+    "variations": [
+      "ABO blood grouping system"
+    ],
+    "emoji": "🩸🔠",
+    "id": "gl001"
+  },
+  "abomasum": {
+    "word": "abomasum",
+    "definition": "the fourth chamber of a ruminant stomach and the true stomach that secretes gastric juice",
+    "variations": [
+      "abomasum",
+      "abomasa"
+    ],
+    "emoji": "🐄🧪",
+    "id": "gl002"
+  },
+  "absorption": {
+    "word": "absorption",
+    "definition": "the process by which digested food passes through the intestine wall into the blood or lymph",
+    "variations": [
+      "absorption",
+      "absorptions"
+    ],
+    "emoji": "⬇️🩸",
+    "id": "gl003"
+  },
+  "active transport": {
+    "word": "active transport",
+    "definition": "the movement of substances across a cell membrane using energy, often against a concentration gradient",
+    "variations": [
+      "active transport"
+    ],
+    "emoji": "⚡⬆️🧫",
+    "id": "gl004"
+  },
+  "adhesive force": {
+    "word": "adhesive force",
+    "definition": "the force that makes molecules of different substances stick together",
+    "variations": [
+      "adhesive force",
+      "adhesion",
+      "adhesive"
+    ],
+    "emoji": "🧲🔗",
+    "id": "gl005"
+  },
+  "adipose tissue": {
+    "word": "adipose tissue",
+    "definition": "body tissue that stores fat under the skin and around organs",
+    "variations": [
+      "adipose tissue",
+      "adipose tissues"
+    ],
+    "emoji": "🫃🧈",
+    "id": "gl006"
+  },
+  "aerobic respiration": {
+    "word": "aerobic respiration",
+    "definition": "respiration that uses oxygen to release energy from food",
+    "variations": [
+      "aerobic respiration"
+    ],
+    "emoji": "🫁⚡🧪",
+    "id": "gl007"
+  },
+  "agglutination": {
+    "word": "agglutination",
+    "definition": "the clumping together of red blood cells when incompatible blood is mixed",
+    "variations": [
+      "agglutination"
+    ],
+    "emoji": "🩸🧩",
+    "id": "gl008"
+  },
+  "alimentary canal": {
+    "word": "alimentary canal",
+    "definition": "the long tube in the body through which food passes during digestion",
+    "variations": [
+      "alimentary canal",
+      "alimentary canals"
+    ],
+    "emoji": "🔄🍽️",
+    "id": "gl009"
+  },
+  "allergen": {
+    "word": "allergen",
+    "definition": "a substance that causes an allergic reaction in some people.",
+    "variations": [
+      "allergen",
+      "allergens"
+    ],
+    "emoji": "🌼😷",
+    "id": "gl010"
+  },
+  "allergens": {
+    "word": "allergens",
+    "definition": "substances that cause allergic reactions in some people",
+    "variations": [
+      "allergen",
+      "allergens"
+    ],
+    "emoji": "🌼🤧",
+    "id": "gl011"
+  },
+  "allergy": {
+    "word": "allergy",
+    "definition": "a harmful reaction by the body to certain foods or substances",
+    "variations": [
+      "allergy",
+      "allergies"
+    ],
+    "emoji": "🤧🚫",
+    "id": "gl012"
+  },
+  "altitude": {
+    "word": "altitude",
+    "definition": "the height of a place above sea level",
+    "variations": [
+      "altitude",
+      "altitudes"
+    ],
+    "emoji": "⛰️📏",
+    "id": "gl013"
+  },
+  "alveoli": {
+    "word": "alveoli",
+    "definition": "tiny air sacs in the lungs where gases are exchanged",
+    "variations": [
+      "alveolus",
+      "alveoli"
+    ],
+    "emoji": "🫁🌬️🩸",
+    "id": "gl014"
+  },
+  "alveolus": {
+    "word": "alveolus",
+    "definition": "a tiny air sac in the lungs where gas exchange takes place",
+    "variations": [
+      "alveolus",
+      "alveoli"
+    ],
+    "emoji": "🫁🫧",
+    "id": "gl015"
+  },
+  "amino acid": {
+    "word": "amino acid",
+    "definition": "a small unit that joins with others to form proteins",
+    "variations": [
+      "amino acid",
+      "amino acids"
+    ],
+    "emoji": "🧬🔗",
+    "id": "gl016"
+  },
+  "amphoteric": {
+    "word": "amphoteric",
+    "definition": "able to act as both an acid and a base",
+    "variations": [
+      "amphoteric"
+    ],
+    "emoji": "⚖️🧪",
+    "id": "gl017"
+  },
+  "amylase": {
+    "word": "amylase",
+    "definition": "an enzyme that breaks down starch into simpler sugars",
+    "variations": [
+      "amylase"
+    ],
+    "emoji": "🍞⚗️🔬",
+    "id": "gl018"
+  },
+  "anaemic": {
+    "word": "anaemic",
+    "definition": "having too little haemoglobin or too few red blood cells, causing weakness and less oxygen transport",
+    "variations": [
+      "anaemic",
+      "anaemia"
+    ],
+    "emoji": "😓🩸",
+    "id": "gl019"
+  },
+  "anaerobes": {
+    "word": "anaerobes",
+    "definition": "organisms that can live and respire without oxygen",
+    "variations": [
+      "anaerobe",
+      "anaerobes"
+    ],
+    "emoji": "🦠🚫O₂",
+    "id": "gl020"
+  },
+  "anaerobic respiration": {
+    "word": "anaerobic respiration",
+    "definition": "respiration that releases energy without using oxygen",
+    "variations": [
+      "anaerobic respiration"
+    ],
+    "emoji": "⚡🚫🫁",
+    "id": "gl021"
+  },
+  "anorexia nervosa": {
+    "word": "anorexia nervosa",
+    "definition": "an eating disorder in which a person eats too little because of fear of gaining weight",
+    "variations": [
+      "anorexia nervosa"
+    ],
+    "emoji": "⚠️🍽️",
+    "id": "gl022"
+  },
+  "antibody": {
+    "word": "antibody",
+    "definition": "a protein made by the body to help fight disease",
+    "variations": [
+      "antibody",
+      "antibodies"
+    ],
+    "emoji": "🛡️🦠",
+    "id": "gl023"
+  },
+  "anticoagulant": {
+    "word": "anticoagulant",
+    "definition": "a substance that prevents blood from clotting",
+    "variations": [
+      "anticoagulant",
+      "anticoagulants"
+    ],
+    "emoji": "🩸⛔",
+    "id": "gl024"
+  },
+  "antigen": {
+    "word": "antigen",
+    "definition": "a substance on a cell or germ that can cause the body to make antibodies",
+    "variations": [
+      "antigen",
+      "antigens"
+    ],
+    "emoji": "🧬⚠️",
+    "id": "gl025"
+  },
+  "antioxidant": {
+    "word": "antioxidant",
+    "definition": "a substance that helps protect the body from harmful substances",
+    "variations": [
+      "antioxidant",
+      "antioxidants"
+    ],
+    "emoji": "🍊🛡️",
+    "id": "gl026"
+  },
+  "anus": {
+    "word": "anus",
+    "definition": "the opening at the end of the digestive tract where faeces leave the body",
+    "variations": [
+      "anus",
+      "anuses"
+    ],
+    "emoji": "🚽➡️",
+    "id": "gl027"
+  },
+  "aorta": {
+    "word": "aorta",
+    "definition": "the largest artery that carries oxygenated blood from the heart to the body.",
+    "variations": [
+      "aortas"
+    ],
+    "emoji": "🩸➡️",
+    "id": "gl028"
+  },
+  "appendix": {
+    "word": "appendix",
+    "definition": "a small tube attached to the large intestine",
+    "variations": [
+      "appendix",
+      "appendices"
+    ],
+    "emoji": "🧍📎",
+    "id": "gl029"
+  },
+  "appetite": {
+    "word": "appetite",
+    "definition": "the natural desire to eat food",
+    "variations": [
+      "appetite",
+      "appetites"
+    ],
+    "emoji": "🍽️😋",
+    "id": "gl030"
+  },
+  "arteriole": {
+    "word": "arteriole",
+    "definition": "a small branch of an artery that leads to capillaries.",
+    "variations": [
+      "arterioles"
+    ],
+    "emoji": "🩸🌿",
+    "id": "gl031"
+  },
+  "arteriosclerosis": {
+    "word": "arteriosclerosis",
+    "definition": "the hardening and narrowing of arteries, often due to fat deposits in the artery wall",
+    "variations": [
+      "arteriosclerosis"
+    ],
+    "emoji": "🩸⚠️",
+    "id": "gl032"
+  },
+  "artery": {
+    "word": "artery",
+    "definition": "a blood vessel that carries blood away from the heart.",
+    "variations": [
+      "arteries"
+    ],
+    "emoji": "🩸➡️",
+    "id": "gl033"
+  },
+  "assimilation": {
+    "word": "assimilation",
+    "definition": "the use of absorbed food by the body for energy, growth, repair, and other functions",
+    "variations": [
+      "assimilation",
+      "assimilations"
+    ],
+    "emoji": "💪⚡🌱",
+    "id": "gl034"
+  },
+  "asthma": {
+    "word": "asthma",
+    "definition": "a disease in which the airways become narrow and swollen, making breathing difficult",
+    "variations": [
+      "asthma",
+      "asthmatic"
+    ],
+    "emoji": "🫁😮‍💨",
+    "id": "gl035"
+  },
+  "ATP": {
+    "word": "ATP",
+    "definition": "a molecule that stores and supplies energy in cells",
+    "variations": [
+      "ATP"
+    ],
+    "emoji": "⚡🧬",
+    "id": "gl036"
+  },
+  "atrium": {
+    "word": "atrium",
+    "definition": "one of the two upper chambers of the heart",
+    "variations": [
+      "atrium",
+      "atria"
+    ],
+    "emoji": "❤️⬆️",
+    "id": "gl037"
+  },
+  "auricle": {
+    "word": "auricle",
+    "definition": "an upper chamber of the heart that receives blood.",
+    "variations": [
+      "auricles",
+      "atrium",
+      "atria"
+    ],
+    "emoji": "🫀⬆️",
+    "id": "gl038"
+  },
+  "autotroph": {
+    "word": "autotroph",
+    "definition": "an organism that makes its own food, usually using sunlight",
+    "variations": [
+      "autotroph",
+      "autotrophs"
+    ],
+    "emoji": "🌞🌿",
+    "id": "gl039"
+  },
+  "autotrophic": {
+    "word": "autotrophic",
+    "definition": "describing organisms that can make their own food, usually using sunlight or chemicals",
+    "variations": [
+      "autotrophic",
+      "autotroph",
+      "autotrophs"
+    ],
+    "emoji": "🌿☀️",
+    "id": "gl040"
+  },
+  "bacteria": {
+    "word": "bacteria",
+    "definition": "tiny living organisms made of one cell; some are useful and some cause disease",
+    "variations": [
+      "bacterium",
+      "bacteria"
+    ],
+    "emoji": "🦠🔬",
+    "id": "gl041"
+  },
+  "balanced diet": {
+    "word": "balanced diet",
+    "definition": "a meal that contains all the main food groups in the right amounts",
+    "variations": [
+      "balanced diet",
+      "balanced diets"
+    ],
+    "emoji": "🥗⚖️",
+    "id": "gl042"
+  },
+  "basement membrane": {
+    "word": "basement membrane",
+    "definition": "a thin supporting layer under cells such as the endothelium.",
+    "variations": [
+      "basement membranes"
+    ],
+    "emoji": "🔬📄",
+    "id": "gl043"
+  },
+  "belching": {
+    "word": "belching",
+    "definition": "bringing gas up from the stomach through the mouth; burping",
+    "variations": [
+      "belch",
+      "belching",
+      "belched",
+      "belches"
+    ],
+    "emoji": "😮💨🤭",
+    "id": "gl044"
+  },
+  "Benedict’s solution": {
+    "word": "Benedict’s solution",
+    "definition": "a chemical solution used to test for reducing sugars",
+    "variations": [
+      "Benedict’s solution"
+    ],
+    "emoji": "🧪🔵",
+    "id": "gl045"
+  },
+  "biconcave": {
+    "word": "biconcave",
+    "definition": "curved inward on both sides, like the shape of a red blood cell",
+    "variations": [
+      "biconcave"
+    ],
+    "emoji": "🔴◐",
+    "id": "gl046"
+  },
+  "bicuspid valve": {
+    "word": "bicuspid valve",
+    "definition": "the valve between the left auricle and the left ventricle.",
+    "variations": [
+      "bicuspid valves"
+    ],
+    "emoji": "🫀🚪",
+    "id": "gl047"
+  },
+  "bile": {
+    "word": "bile",
+    "definition": "a digestive juice made by the liver that helps digest fats",
+    "variations": [
+      "bile"
+    ],
+    "emoji": "🟢🧪",
+    "id": "gl048"
+  },
+  "bile duct": {
+    "word": "bile duct",
+    "definition": "a tube that carries bile from the liver or gall bladder to the duodenum",
+    "variations": [
+      "bile duct",
+      "bile ducts"
+    ],
+    "emoji": "🟢➡️",
+    "id": "gl049"
+  },
+  "bile salt": {
+    "word": "bile salt",
+    "definition": "a substance in bile that helps break fats into tiny droplets",
+    "variations": [
+      "bile salt",
+      "bile salts"
+    ],
+    "emoji": "🧪🫒",
+    "id": "gl050"
+  },
+  "bile salts": {
+    "word": "bile salts",
+    "definition": "substances in bile that help fats mix with water during digestion",
+    "variations": [
+      "bile salt",
+      "bile salts"
+    ],
+    "emoji": "🧪🫒💧",
+    "id": "gl051"
+  },
+  "Biuret test": {
+    "word": "Biuret test",
+    "definition": "a test for proteins that gives a violet or purple colour if protein is present",
+    "variations": [
+      "Biuret test"
+    ],
+    "emoji": "🧪🟣",
+    "id": "gl052"
+  },
+  "bloating": {
+    "word": "bloating",
+    "definition": "swelling or fullness in the stomach caused by gas",
+    "variations": [
+      "bloat",
+      "bloating",
+      "bloated"
+    ],
+    "emoji": "🎈🫃💨",
+    "id": "gl053"
+  },
+  "blood": {
+    "word": "blood",
+    "definition": "the red liquid that carries oxygen, food, and wastes around the body",
+    "variations": [
+      "blood",
+      "bloody"
+    ],
+    "emoji": "🩸❤️",
+    "id": "gl054"
+  },
+  "blood group": {
+    "word": "blood group",
+    "definition": "a classification of blood based on antigens and antibodies",
+    "variations": [
+      "blood group",
+      "blood groups"
+    ],
+    "emoji": "🩸🏷️",
+    "id": "gl055"
+  },
+  "blood plasma": {
+    "word": "blood plasma",
+    "definition": "the yellowish liquid part of blood that carries blood cells and dissolved substances",
+    "variations": [],
+    "emoji": "🩸💛",
+    "id": "gl056"
+  },
+  "blood pressure": {
+    "word": "blood pressure",
+    "definition": "the force of blood pushing against the walls of blood vessels",
+    "variations": [
+      "blood pressure"
+    ],
+    "emoji": "🩺🩸",
+    "id": "gl057"
+  },
+  "blood transfusion": {
+    "word": "blood transfusion",
+    "definition": "the transfer of blood from one person to another",
+    "variations": [
+      "blood transfusion",
+      "blood transfusions"
+    ],
+    "emoji": "🩸💉",
+    "id": "gl058"
+  },
+  "blood vessel": {
+    "word": "blood vessel",
+    "definition": "a tube that carries blood through the body.",
+    "variations": [
+      "blood vessels"
+    ],
+    "emoji": "🩸🛣️",
+    "id": "gl059"
+  },
+  "BMI": {
+    "word": "BMI",
+    "definition": "body mass index; a number used to compare a person's weight with their height",
+    "variations": [
+      "BMI",
+      "body mass index"
+    ],
+    "emoji": "⚖️📏",
+    "id": "gl060"
+  },
+  "Body Mass Index": {
+    "word": "Body Mass Index",
+    "definition": "a number calculated from height and weight to help show if a person’s weight is healthy",
+    "variations": [
+      "Body Mass Index",
+      "BMI"
+    ],
+    "emoji": "📏⚖️",
+    "id": "gl061"
+  },
+  "bolus": {
+    "word": "bolus",
+    "definition": "a small rounded mass of chewed food ready to be swallowed",
+    "variations": [
+      "bolus",
+      "boli"
+    ],
+    "emoji": "🍽️🔵",
+    "id": "gl062"
+  },
+  "bone marrow": {
+    "word": "bone marrow",
+    "definition": "soft tissue inside bones where blood cells are made",
+    "variations": [
+      "bone marrow"
+    ],
+    "emoji": "🦴🩸",
+    "id": "gl063"
+  },
+  "breathing": {
+    "word": "breathing",
+    "definition": "the process of taking air into the lungs and letting it out",
+    "variations": [
+      "breathe",
+      "breathes",
+      "breathing",
+      "breathed"
+    ],
+    "emoji": "😮‍💨🫁",
+    "id": "gl064"
+  },
+  "bronchiole": {
+    "word": "bronchiole",
+    "definition": "a small air passage in the lungs that leads to the alveoli",
+    "variations": [
+      "bronchiole",
+      "bronchioles"
+    ],
+    "emoji": "🫁🌿",
+    "id": "gl065"
+  },
+  "bronchioles": {
+    "word": "bronchioles",
+    "definition": "small air passages in the lungs that carry air to the alveoli",
+    "variations": [
+      "bronchiole",
+      "bronchioles"
+    ],
+    "emoji": "🫁🌬️",
+    "id": "gl066"
+  },
+  "bronchitis": {
+    "word": "bronchitis",
+    "definition": "inflammation of the bronchial tubes that carry air to and from the lungs.",
+    "variations": [
+      "bronchitis"
+    ],
+    "emoji": "🫁😷",
+    "id": "gl067"
+  },
+  "bronchus": {
+    "word": "bronchus",
+    "definition": "one of the two main air tubes that branch from the trachea into the lungs",
+    "variations": [
+      "bronchus",
+      "bronchi"
+    ],
+    "emoji": "🫁🌿",
+    "id": "gl068"
+  },
+  "buccal cavity": {
+    "word": "buccal cavity",
+    "definition": "the mouth cavity; in some animals it helps in breathing",
+    "variations": [
+      "buccal cavity",
+      "buccal cavities"
+    ],
+    "emoji": "👄🌬️",
+    "id": "gl069"
+  },
+  "bulimia nervosa": {
+    "word": "bulimia nervosa",
+    "definition": "an eating disorder in which a person eats a lot and then tries to remove the food from the body",
+    "variations": [
+      "bulimia nervosa"
+    ],
+    "emoji": "⚠️🧠",
+    "id": "gl070"
+  },
+  "bundle sheath": {
+    "word": "bundle sheath",
+    "definition": "a layer of cells surrounding a leaf vascular bundle and protecting it",
+    "variations": [
+      "bundle sheaths"
+    ],
+    "emoji": "🛡️🍃",
+    "id": "gl071"
+  },
+  "calcium": {
+    "word": "calcium",
+    "definition": "a mineral needed for strong bones and teeth",
+    "variations": [
+      "calcium"
+    ],
+    "emoji": "🦴🥛",
+    "id": "gl072"
+  },
+  "caloric needs": {
+    "word": "caloric needs",
+    "definition": "the amount of energy from food that a person’s body needs",
+    "variations": [
+      "caloric need",
+      "caloric needs"
+    ],
+    "emoji": "🔥🍽️",
+    "id": "gl073"
+  },
+  "calorie": {
+    "word": "calorie",
+    "definition": "a unit used to measure the amount of energy in food",
+    "variations": [
+      "calorie",
+      "calories"
+    ],
+    "emoji": "🔥🍽️",
+    "id": "gl074"
+  },
+  "canine": {
+    "word": "canine",
+    "definition": "a pointed tooth used for holding and tearing food",
+    "variations": [
+      "canine",
+      "canines"
+    ],
+    "emoji": "🦷🔺",
+    "id": "gl075"
+  },
+  "capillaries": {
+    "word": "capillaries",
+    "definition": "very small blood vessels where gases, nutrients, and wastes move between the blood and body tissues",
+    "variations": [
+      "capillary",
+      "capillaries"
+    ],
+    "emoji": "🩸🔬",
+    "id": "gl076"
+  },
+  "capillarity": {
+    "word": "capillarity",
+    "definition": "the ability of water to move up through narrow spaces or tubes",
+    "variations": [
+      "capillarity",
+      "capillary"
+    ],
+    "emoji": "💧⬆️🧪",
+    "id": "gl077"
+  },
+  "capillary": {
+    "word": "capillary",
+    "definition": "a very small blood vessel that absorbs digested nutrients from the intestine",
+    "variations": [
+      "capillary",
+      "capillaries"
+    ],
+    "emoji": "🩸🔴",
+    "id": "gl078"
+  },
+  "carbaminohaemoglobin": {
+    "word": "carbaminohaemoglobin",
+    "definition": "the substance formed when carbon dioxide combines with haemoglobin in the blood",
+    "variations": [
+      "carbaminohaemoglobin",
+      "carbaminohemoglobin"
+    ],
+    "emoji": "🩸CO₂",
+    "id": "gl079"
+  },
+  "carbohydrate": {
+    "word": "carbohydrate",
+    "definition": "a nutrient that is the main source of energy for the body",
+    "variations": [
+      "carbohydrate",
+      "carbohydrates"
+    ],
+    "emoji": "🍞⚡",
+    "id": "gl080"
+  },
+  "carbon dioxide": {
+    "word": "carbon dioxide",
+    "definition": "a waste gas produced in the body and breathed out",
+    "variations": [
+      "carbon dioxide"
+    ],
+    "emoji": "🌬️↗️",
+    "id": "gl081"
+  },
+  "cardiac cycle": {
+    "word": "cardiac cycle",
+    "definition": "the series of actions in one complete heartbeat, including contraction and relaxation of the heart",
+    "variations": [
+      "cardiac cycle",
+      "cardiac cycles"
+    ],
+    "emoji": "❤️🔄",
+    "id": "gl082"
+  },
+  "cardiac muscle": {
+    "word": "cardiac muscle",
+    "definition": "special muscle found only in the heart that contracts and relaxes continuously.",
+    "variations": [
+      "cardiac muscles"
+    ],
+    "emoji": "🫀💪",
+    "id": "gl083"
+  },
+  "cardiac sphincter": {
+    "word": "cardiac sphincter",
+    "definition": "a ring of muscle between the oesophagus and the stomach that controls food entry",
+    "variations": [
+      "cardiac sphincter",
+      "cardiac sphincters"
+    ],
+    "emoji": "⭕🚪",
+    "id": "gl084"
+  },
+  "carnivore": {
+    "word": "carnivore",
+    "definition": "an animal that eats other animals",
+    "variations": [
+      "carnivore",
+      "carnivores"
+    ],
+    "emoji": "🦁🍖",
+    "id": "gl085"
+  },
+  "carnivorous": {
+    "word": "carnivorous",
+    "definition": "describing an animal that feeds on other animals",
+    "variations": [
+      "carnivorous",
+      "carnivore",
+      "carnivores"
+    ],
+    "emoji": "🦁🍖",
+    "id": "gl086"
+  },
+  "cartilage": {
+    "word": "cartilage",
+    "definition": "a strong but flexible body tissue that supports some parts of the body",
+    "variations": [
+      "cartilage",
+      "cartilages"
+    ],
+    "emoji": "🦴🔄",
+    "id": "gl087"
+  },
+  "catalyse": {
+    "word": "catalyse",
+    "definition": "to make a chemical reaction happen faster",
+    "variations": [
+      "catalyse",
+      "catalyses",
+      "catalysed",
+      "catalyst"
+    ],
+    "emoji": "⚗️⏩",
+    "id": "gl088"
+  },
+  "cavity": {
+    "word": "cavity",
+    "definition": "a hole in a tooth caused by decay",
+    "variations": [
+      "cavity",
+      "cavities"
+    ],
+    "emoji": "🦷🕳️",
+    "id": "gl089"
+  },
+  "CD4": {
+    "word": "CD4",
+    "definition": "a receptor on some white blood cells that HIV attaches to",
+    "variations": [
+      "CD4"
+    ],
+    "emoji": "🔗🧫",
+    "id": "gl090"
+  },
+  "cell": {
+    "word": "cell",
+    "definition": "the smallest basic unit of life",
+    "variations": [
+      "cell",
+      "cells"
+    ],
+    "emoji": "🔬🧫",
+    "id": "gl091"
+  },
+  "cell membrane": {
+    "word": "cell membrane",
+    "definition": "the thin outer covering of a cell that controls what enters and leaves the cell",
+    "variations": [
+      "cell membrane",
+      "cell membranes"
+    ],
+    "emoji": "🧫🚪",
+    "id": "gl092"
+  },
+  "cell sap": {
+    "word": "cell sap",
+    "definition": "the liquid inside the vacuole of a plant cell that contains water and dissolved substances",
+    "variations": [
+      "cell sap"
+    ],
+    "emoji": "💧🧪",
+    "id": "gl093"
+  },
+  "cellulase": {
+    "word": "cellulase",
+    "definition": "an enzyme that breaks down cellulose",
+    "variations": [
+      "cellulase"
+    ],
+    "emoji": "🌿🧪",
+    "id": "gl094"
+  },
+  "cellulose": {
+    "word": "cellulose",
+    "definition": "a tough substance found in plant cell walls",
+    "variations": [
+      "cellulose"
+    ],
+    "emoji": "🌿🧱",
+    "id": "gl095"
+  },
+  "chemical digestion": {
+    "word": "chemical digestion",
+    "definition": "the breakdown of food by enzymes and other chemicals into simpler molecules",
+    "variations": [
+      "chemical digestion"
+    ],
+    "emoji": "🧪⚗️",
+    "id": "gl096"
+  },
+  "chitin": {
+    "word": "chitin",
+    "definition": "a strong material found in the outer covering of arthropods and in fungal cell walls",
+    "variations": [
+      "chitin"
+    ],
+    "emoji": "🦗🍄",
+    "id": "gl097"
+  },
+  "chloroplast": {
+    "word": "chloroplast",
+    "definition": "the part of a plant cell that contains chlorophyll and makes food",
+    "variations": [
+      "chloroplast",
+      "chloroplasts"
+    ],
+    "emoji": "🌿☀️",
+    "id": "gl098"
+  },
+  "chronic disease": {
+    "word": "chronic disease",
+    "definition": "a disease that lasts for a long time or keeps coming back",
+    "variations": [
+      "chronic disease",
+      "chronic diseases"
+    ],
+    "emoji": "🏥⏳",
+    "id": "gl099"
+  },
+  "churning": {
+    "word": "churning",
+    "definition": "the mixing movement in the stomach that breaks food into smaller pieces",
+    "variations": [
+      "churning"
+    ],
+    "emoji": "🔄🫃",
+    "id": "gl100"
+  },
+  "chyme": {
+    "word": "chyme",
+    "definition": "a soft semi-liquid mixture of partly digested food in the stomach",
+    "variations": [
+      "chyme"
+    ],
+    "emoji": "🥣🫗",
+    "id": "gl101"
+  },
+  "cilia": {
+    "word": "cilia",
+    "definition": "tiny hair-like structures that help trap and move dust and germs out of the air passages",
+    "variations": [
+      "cilia"
+    ],
+    "emoji": "🧹🌬️",
+    "id": "gl102"
+  },
+  "circular muscle": {
+    "word": "circular muscle",
+    "definition": "a ring-shaped muscle that helps push food by contracting around it",
+    "variations": [
+      "circular muscle",
+      "circular muscles"
+    ],
+    "emoji": "⭕💪",
+    "id": "gl103"
+  },
+  "circulation": {
+    "word": "circulation",
+    "definition": "the movement of blood around the body",
+    "variations": [
+      "circulation"
+    ],
+    "emoji": "🩸🔄❤️",
+    "id": "gl104"
+  },
+  "circulatory system": {
+    "word": "circulatory system",
+    "definition": "the body system that moves blood and materials around the body",
+    "variations": [
+      "circulatory systems"
+    ],
+    "emoji": "❤️🩸",
+    "id": "gl105"
+  },
+  "clot": {
+    "word": "clot",
+    "definition": "a thick mass of blood that forms to stop bleeding",
+    "variations": [
+      "clot",
+      "clots",
+      "clotting"
+    ],
+    "emoji": "🩸🩹",
+    "id": "gl106"
+  },
+  "coagulate": {
+    "word": "coagulate",
+    "definition": "to thicken or clump together, especially when heated",
+    "variations": [
+      "coagulate",
+      "coagulates",
+      "coagulated",
+      "coagulating"
+    ],
+    "emoji": "🔥🧫",
+    "id": "gl107"
+  },
+  "coagulation": {
+    "word": "coagulation",
+    "definition": "the process by which blood changes from liquid to a clot",
+    "variations": [
+      "coagulation",
+      "coagulate",
+      "coagulates",
+      "coagulated",
+      "coagulating"
+    ],
+    "emoji": "🩸🧱",
+    "id": "gl108"
+  },
+  "coenzyme": {
+    "word": "coenzyme",
+    "definition": "a small organic substance that helps an enzyme work properly",
+    "variations": [
+      "coenzyme",
+      "coenzymes"
+    ],
+    "emoji": "🧪🤝",
+    "id": "gl109"
+  },
+  "cohesion": {
+    "word": "cohesion",
+    "definition": "the force that makes molecules of the same kind stick together",
+    "variations": [
+      "cohesion"
+    ],
+    "emoji": "💧🧲",
+    "id": "gl110"
+  },
+  "cohesive force": {
+    "word": "cohesive force",
+    "definition": "the force that makes molecules of the same substance stick together",
+    "variations": [
+      "cohesive force",
+      "cohesion"
+    ],
+    "emoji": "🧲💧",
+    "id": "gl111"
+  },
+  "collagen": {
+    "word": "collagen",
+    "definition": "a strong protein that helps support and strengthen body tissues.",
+    "variations": [
+      "collagens"
+    ],
+    "emoji": "🧵💪",
+    "id": "gl112"
+  },
+  "colon": {
+    "word": "colon",
+    "definition": "the main part of the large intestine",
+    "variations": [
+      "colon",
+      "colons"
+    ],
+    "emoji": "💧🧍",
+    "id": "gl113"
+  },
+  "commensalism": {
+    "word": "commensalism",
+    "definition": "a relationship between two species in which one benefits and the other is neither helped nor harmed",
+    "variations": [
+      "commensalism",
+      "commensal"
+    ],
+    "emoji": "🐟🦈",
+    "id": "gl114"
+  },
+  "companion cell": {
+    "word": "companion cell",
+    "definition": "a living cell next to a sieve tube that helps it transport food",
+    "variations": [
+      "companion cells"
+    ],
+    "emoji": "🤝🔋🌿",
+    "id": "gl115"
+  },
+  "compatible": {
+    "word": "compatible",
+    "definition": "able to mix safely without causing harm",
+    "variations": [
+      "compatible",
+      "compatibility"
+    ],
+    "emoji": "✅🩸",
+    "id": "gl116"
+  },
+  "concentration": {
+    "word": "concentration",
+    "definition": "the amount of a substance present in a solution",
+    "variations": [
+      "concentration",
+      "concentrations"
+    ],
+    "emoji": "🧴📏",
+    "id": "gl117"
+  },
+  "concentration gradient": {
+    "word": "concentration gradient",
+    "definition": "the difference in the amount of a substance between two areas",
+    "variations": [
+      "concentration gradient",
+      "concentration gradients"
+    ],
+    "emoji": "📉↔️🧪",
+    "id": "gl118"
+  },
+  "condensation": {
+    "word": "condensation",
+    "definition": "a process in which small molecules join together to make a larger molecule, often producing water",
+    "variations": [
+      "condensation"
+    ],
+    "emoji": "🔗💧",
+    "id": "gl119"
+  },
+  "conducting tissue": {
+    "word": "conducting tissue",
+    "definition": "plant tissue that moves water, minerals, or food through the plant",
+    "variations": [
+      "conducting tissues"
+    ],
+    "emoji": "🚰🌿",
+    "id": "gl120"
+  },
+  "constipation": {
+    "word": "constipation",
+    "definition": "difficulty in passing faeces because the bowels are not emptying easily",
+    "variations": [
+      "constipation"
+    ],
+    "emoji": "😣🚽",
+    "id": "gl121"
+  },
+  "contractile vacuole": {
+    "word": "contractile vacuole",
+    "definition": "a part of some single-celled organisms that collects and pushes out extra water",
+    "variations": [
+      "contractile vacuoles"
+    ],
+    "emoji": "🫧💧",
+    "id": "gl122"
+  },
+  "coronary artery": {
+    "word": "coronary artery",
+    "definition": "the artery that supplies oxygenated blood to the heart muscle.",
+    "variations": [
+      "coronary arteries"
+    ],
+    "emoji": "🫀🩸",
+    "id": "gl123"
+  },
+  "coronary thrombosis": {
+    "word": "coronary thrombosis",
+    "definition": "a condition in which a blood clot blocks blood flow in the vessels that supply the heart",
+    "variations": [
+      "coronary thrombosis"
+    ],
+    "emoji": "🫀🩸⚠️",
+    "id": "gl124"
+  },
+  "coronary vein": {
+    "word": "coronary vein",
+    "definition": "the vein that carries deoxygenated blood and wastes away from the heart muscle.",
+    "variations": [
+      "coronary veins"
+    ],
+    "emoji": "🫀🩸",
+    "id": "gl125"
+  },
+  "cortex": {
+    "word": "cortex",
+    "definition": "the layer of tissue between the epidermis and the vascular tissue in roots and stems",
+    "variations": [],
+    "emoji": "🌿🧩",
+    "id": "gl126"
+  },
+  "crenation": {
+    "word": "crenation",
+    "definition": "the shrinking of a red blood cell after losing water",
+    "variations": [
+      "crenated"
+    ],
+    "emoji": "🩸 shrinking",
+    "id": "gl127"
+  },
+  "cud": {
+    "word": "cud",
+    "definition": "partly digested food brought back to the mouth by a ruminant for more chewing",
+    "variations": [
+      "cud"
+    ],
+    "emoji": "🐄🌿",
+    "id": "gl128"
+  },
+  "cuticle": {
+    "word": "cuticle",
+    "definition": "a thin waterproof layer on the outside of leaves and stems that reduces water loss",
+    "variations": [],
+    "emoji": "💧🛡️",
+    "id": "gl129"
+  },
+  "cuticular transpiration": {
+    "word": "cuticular transpiration",
+    "definition": "loss of water through the cuticle of leaves",
+    "variations": [
+      "cuticular transpiration"
+    ],
+    "emoji": "🍃🛡️💧",
+    "id": "gl130"
+  },
+  "cytoplasm": {
+    "word": "cytoplasm",
+    "definition": "the jelly-like material inside a cell where many cell activities happen",
+    "variations": [],
+    "emoji": "🧫🔬",
+    "id": "gl131"
+  },
+  "decomposer": {
+    "word": "decomposer",
+    "definition": "an organism that breaks down dead plants and animals",
+    "variations": [
+      "decomposer",
+      "decomposers"
+    ],
+    "emoji": "🍄♻️",
+    "id": "gl132"
+  },
+  "decomposition": {
+    "word": "decomposition",
+    "definition": "the breakdown of dead material into simpler substances",
+    "variations": [
+      "decomposition",
+      "decompose",
+      "decomposing"
+    ],
+    "emoji": "🍂🦠",
+    "id": "gl133"
+  },
+  "defecation": {
+    "word": "defecation",
+    "definition": "the act of passing faeces out of the body",
+    "variations": [
+      "defecation",
+      "defecations"
+    ],
+    "emoji": "🚻🚽",
+    "id": "gl134"
+  },
+  "deficiency": {
+    "word": "deficiency",
+    "definition": "a lack of an important nutrient in the body",
+    "variations": [
+      "deficiency",
+      "deficiencies"
+    ],
+    "emoji": "⬇️🧍",
+    "id": "gl135"
+  },
+  "dehydration": {
+    "word": "dehydration",
+    "definition": "a harmful condition caused by losing too much water from the body",
+    "variations": [
+      "dehydration"
+    ],
+    "emoji": "💧⚠️",
+    "id": "gl136"
+  },
+  "denaturation": {
+    "word": "denaturation",
+    "definition": "the change in a protein’s structure, often caused by heat, that makes it clump or stop working normally",
+    "variations": [
+      "denaturation",
+      "denature",
+      "denatured"
+    ],
+    "emoji": "🔥🥚",
+    "id": "gl137"
+  },
+  "denatured": {
+    "word": "denatured",
+    "definition": "changed in shape so that a protein or enzyme can no longer work properly.",
+    "variations": [
+      "denatured",
+      "denature"
+    ],
+    "emoji": "🌡️🧬❌",
+    "id": "gl138"
+  },
+  "dental caries": {
+    "word": "dental caries",
+    "definition": "tooth decay caused when acids made by bacteria damage the tooth enamel",
+    "variations": [
+      "dental caries"
+    ],
+    "emoji": "🦷🦠",
+    "id": "gl139"
+  },
+  "dentine": {
+    "word": "dentine",
+    "definition": "the softer layer under the enamel of a tooth",
+    "variations": [
+      "dentine"
+    ],
+    "emoji": "🦷🟨",
+    "id": "gl140"
+  },
+  "deoxygenated": {
+    "word": "deoxygenated",
+    "definition": "containing little oxygen",
+    "variations": [
+      "deoxygenated"
+    ],
+    "emoji": "🩸⬇️",
+    "id": "gl141"
+  },
+  "deoxygenated blood": {
+    "word": "deoxygenated blood",
+    "definition": "blood that contains little oxygen and more carbon dioxide.",
+    "variations": [
+      "deoxygenated"
+    ],
+    "emoji": "🩸🌫️",
+    "id": "gl142"
+  },
+  "detoxification": {
+    "word": "detoxification",
+    "definition": "the removal or breakdown of harmful substances in the body, mainly by the liver",
+    "variations": [
+      "detoxification",
+      "detoxifications"
+    ],
+    "emoji": "🧹🫀",
+    "id": "gl143"
+  },
+  "diaphragm": {
+    "word": "diaphragm",
+    "definition": "a sheet of muscle below the lungs that helps air move in and out during breathing",
+    "variations": [
+      "diaphragm",
+      "diaphragms"
+    ],
+    "emoji": "🫁💪",
+    "id": "gl144"
+  },
+  "diarrhoea": {
+    "word": "diarrhoea",
+    "definition": "a condition in which a person passes loose or watery stool often",
+    "variations": [
+      "diarrhoea"
+    ],
+    "emoji": "🤒🚽",
+    "id": "gl145"
+  },
+  "diastema": {
+    "word": "diastema",
+    "definition": "a gap between teeth, especially seen in some plant-eating animals",
+    "variations": [
+      "diastema",
+      "diastemas"
+    ],
+    "emoji": "🦷↔️",
+    "id": "gl146"
+  },
+  "diastolic pressure": {
+    "word": "diastolic pressure",
+    "definition": "the pressure in the arteries when the heart relaxes between beats",
+    "variations": [
+      "diastolic pressure",
+      "diastole",
+      "diastolic"
+    ],
+    "emoji": "🫀⬇️",
+    "id": "gl147"
+  },
+  "dicot": {
+    "word": "dicot",
+    "definition": "a flowering plant with two seed leaves, such as sunflower or bean",
+    "variations": [
+      "dicots",
+      "dicotyledonous"
+    ],
+    "emoji": "🌻🌱",
+    "id": "gl148"
+  },
+  "diet": {
+    "word": "diet",
+    "definition": "the kinds of food and drink a person or animal usually takes",
+    "variations": [
+      "diet",
+      "diets",
+      "dietary"
+    ],
+    "emoji": "🍽️🥦",
+    "id": "gl149"
+  },
+  "dietary fibre": {
+    "word": "dietary fibre",
+    "definition": "the part of plant food that is not digested but helps digestion",
+    "variations": [
+      "dietary fibre",
+      "fibre"
+    ],
+    "emoji": "🥦🌾",
+    "id": "gl150"
+  },
+  "dietary guideline": {
+    "word": "dietary guideline",
+    "definition": "advice about what and how much to eat to stay healthy",
+    "variations": [
+      "dietary guideline",
+      "dietary guidelines"
+    ],
+    "emoji": "📋🥗",
+    "id": "gl151"
+  },
+  "dietician": {
+    "word": "dietician",
+    "definition": "a health expert who gives advice about food and nutrition",
+    "variations": [
+      "dietician",
+      "dieticians"
+    ],
+    "emoji": "👩‍⚕️🥗",
+    "id": "gl152"
+  },
+  "diffusion": {
+    "word": "diffusion",
+    "definition": "the movement of particles from a region of high concentration to a region of low concentration",
+    "variations": [
+      "diffusion"
+    ],
+    "emoji": "↘️🧪",
+    "id": "gl153"
+  },
+  "digestion": {
+    "word": "digestion",
+    "definition": "the process of breaking down food into simpler substances the body can absorb",
+    "variations": [
+      "digestion",
+      "digestive",
+      "digest"
+    ],
+    "emoji": "🍽️🧪",
+    "id": "gl154"
+  },
+  "digestive system": {
+    "word": "digestive system",
+    "definition": "the group of organs that break down food so the body can absorb and use it",
+    "variations": [
+      "digestive system",
+      "digestive systems"
+    ],
+    "emoji": "🍽️🫃",
+    "id": "gl155"
+  },
+  "digestive tract": {
+    "word": "digestive tract",
+    "definition": "the path food follows through the body from the mouth to the anus",
+    "variations": [
+      "digestive tract",
+      "digestive tracts"
+    ],
+    "emoji": "🍽️➡️🫃",
+    "id": "gl156"
+  },
+  "disaccharide": {
+    "word": "disaccharide",
+    "definition": "a sugar made when two simple sugar molecules join together",
+    "variations": [
+      "disaccharide",
+      "disaccharides"
+    ],
+    "emoji": "🍬2️⃣",
+    "id": "gl157"
+  },
+  "disease": {
+    "word": "disease",
+    "definition": "an illness that affects the normal working of the body",
+    "variations": [
+      "disease",
+      "diseases"
+    ],
+    "emoji": "🤒🦠",
+    "id": "gl158"
+  },
+  "donor": {
+    "word": "donor",
+    "definition": "a person who gives blood for transfusion",
+    "variations": [
+      "donor",
+      "donors"
+    ],
+    "emoji": "🩸🤝",
+    "id": "gl159"
+  },
+  "double circulation": {
+    "word": "double circulation",
+    "definition": "a type of blood flow in which blood passes through the heart twice in one complete journey around the body",
+    "variations": [
+      "double circulation"
+    ],
+    "emoji": "🫀🔁",
+    "id": "gl160"
+  },
+  "duodenal ulcer": {
+    "word": "duodenal ulcer",
+    "definition": "an ulcer found in the duodenum",
+    "variations": [
+      "duodenal ulcer",
+      "duodenal ulcers"
+    ],
+    "emoji": "🩹➡️😖",
+    "id": "gl161"
+  },
+  "duodenum": {
+    "word": "duodenum",
+    "definition": "the first part of the small intestine where digestion continues",
+    "variations": [
+      "duodenum",
+      "duodenums"
+    ],
+    "emoji": "🧪➡️",
+    "id": "gl162"
+  },
+  "ectoparasite": {
+    "word": "ectoparasite",
+    "definition": "a parasite that lives on the outside of the host's body",
+    "variations": [
+      "ectoparasite",
+      "ectoparasites"
+    ],
+    "emoji": "🕷️🩸",
+    "id": "gl163"
+  },
+  "egestion": {
+    "word": "egestion",
+    "definition": "the removal of undigested food from the body as faeces",
+    "variations": [
+      "egestion"
+    ],
+    "emoji": "🚽⬇️",
+    "id": "gl164"
+  },
+  "emulsification": {
+    "word": "emulsification",
+    "definition": "the breaking of fat into tiny droplets so enzymes can digest it more easily",
+    "variations": [
+      "emulsification"
+    ],
+    "emoji": "🫧🫒",
+    "id": "gl165"
+  },
+  "emulsion": {
+    "word": "emulsion",
+    "definition": "a milky mixture formed when tiny drops of one liquid are spread through another liquid",
+    "variations": [
+      "emulsion",
+      "emulsions"
+    ],
+    "emoji": "🥛🧪",
+    "id": "gl166"
+  },
+  "emulsion test": {
+    "word": "emulsion test",
+    "definition": "a food test used to find out if fats or oils are present",
+    "variations": [
+      "emulsion test",
+      "emulsion tests"
+    ],
+    "emoji": "🧪🫒",
+    "id": "gl167"
+  },
+  "enamel": {
+    "word": "enamel",
+    "definition": "the hard outer covering of a tooth",
+    "variations": [
+      "enamel",
+      "enamels"
+    ],
+    "emoji": "🦷🛡️",
+    "id": "gl168"
+  },
+  "endocardium": {
+    "word": "endocardium",
+    "definition": "the inner lining of the heart.",
+    "variations": [
+      "endocardia"
+    ],
+    "emoji": "🫀🔹",
+    "id": "gl169"
+  },
+  "endodermis": {
+    "word": "endodermis",
+    "definition": "the inner layer of cells in a root that controls what enters the vascular tissue",
+    "variations": [],
+    "emoji": "🚪🌱",
+    "id": "gl170"
+  },
+  "endoparasite": {
+    "word": "endoparasite",
+    "definition": "a parasite that lives inside the host's body",
+    "variations": [
+      "endoparasite",
+      "endoparasites"
+    ],
+    "emoji": "🪱🫃",
+    "id": "gl171"
+  },
+  "endothelium": {
+    "word": "endothelium",
+    "definition": "the thin inner layer of cells lining a blood vessel.",
+    "variations": [
+      "endothelial"
+    ],
+    "emoji": "🩸🔬",
+    "id": "gl172"
+  },
+  "enterokinase": {
+    "word": "enterokinase",
+    "definition": "an enzyme that changes trypsinogen into active trypsin",
+    "variations": [
+      "enterokinase"
+    ],
+    "emoji": "🧪🔄",
+    "id": "gl173"
+  },
+  "environment": {
+    "word": "environment",
+    "definition": "the surroundings in which an organism lives",
+    "variations": [
+      "environment",
+      "environments"
+    ],
+    "emoji": "🌍🌿",
+    "id": "gl174"
+  },
+  "enzyme": {
+    "word": "enzyme",
+    "definition": "a substance made by living things that speeds up chemical reactions such as digestion",
+    "variations": [
+      "enzyme",
+      "enzymes"
+    ],
+    "emoji": "⚗️🧪",
+    "id": "gl175"
+  },
+  "enzymes": {
+    "word": "enzymes",
+    "definition": "proteins that speed up chemical reactions in living things",
+    "variations": [
+      "enzyme",
+      "enzymes"
+    ],
+    "emoji": "⚗️🔬",
+    "id": "gl176"
+  },
+  "epicardium": {
+    "word": "epicardium",
+    "definition": "the outer layer of the heart wall.",
+    "variations": [
+      "epicardia"
+    ],
+    "emoji": "🫀🔴",
+    "id": "gl177"
+  },
+  "epidermis": {
+    "word": "epidermis",
+    "definition": "the outer protective layer of cells on a plant organ such as a root, stem, or leaf",
+    "variations": [],
+    "emoji": "🛡️🍃",
+    "id": "gl178"
+  },
+  "epiglottis": {
+    "word": "epiglottis",
+    "definition": "a flap that closes the trachea during swallowing to stop food entering the air passage",
+    "variations": [
+      "epiglottis",
+      "epiglottises"
+    ],
+    "emoji": "🫁🚫",
+    "id": "gl179"
+  },
+  "epiphyte": {
+    "word": "epiphyte",
+    "definition": "a plant that grows on another plant for support without taking its food",
+    "variations": [
+      "epiphyte",
+      "epiphytes"
+    ],
+    "emoji": "🌿🌳",
+    "id": "gl180"
+  },
+  "erosion": {
+    "word": "erosion",
+    "definition": "the wearing away of a surface or lining",
+    "variations": [
+      "erosion",
+      "erosions",
+      "erode",
+      "eroded"
+    ],
+    "emoji": "🧱⬇️⚠️",
+    "id": "gl181"
+  },
+  "erythrocyte": {
+    "word": "erythrocyte",
+    "definition": "another name for a red blood cell",
+    "variations": [
+      "erythrocyte",
+      "erythrocytes"
+    ],
+    "emoji": "🔴🩸",
+    "id": "gl182"
+  },
+  "essential amino acid": {
+    "word": "essential amino acid",
+    "definition": "an amino acid that the body cannot make and must get from food",
+    "variations": [
+      "essential amino acid",
+      "essential amino acids"
+    ],
+    "emoji": "🍳🥜",
+    "id": "gl183"
+  },
+  "ethanol": {
+    "word": "ethanol",
+    "definition": "a type of alcohol that can be produced during anaerobic respiration in some organisms",
+    "variations": [
+      "ethanol"
+    ],
+    "emoji": "🧪🍶",
+    "id": "gl184"
+  },
+  "excretion": {
+    "word": "excretion",
+    "definition": "the removal of waste products made by the body",
+    "variations": [
+      "excretion"
+    ],
+    "emoji": "🗑️💧",
+    "id": "gl185"
+  },
+  "exhalation": {
+    "word": "exhalation",
+    "definition": "the process of breathing air out of the lungs",
+    "variations": [
+      "exhalation",
+      "exhalations",
+      "exhale",
+      "exhaling",
+      "exhaled"
+    ],
+    "emoji": "🌬️⬆️🫁",
+    "id": "gl186"
+  },
+  "extracellular digestion": {
+    "word": "extracellular digestion",
+    "definition": "digestion that happens outside the cell after enzymes are released onto food",
+    "variations": [
+      "extracellular digestion"
+    ],
+    "emoji": "🧪🍞",
+    "id": "gl187"
+  },
+  "facultative anaerobe": {
+    "word": "facultative anaerobe",
+    "definition": "an organism that can live and respire with oxygen or without oxygen.",
+    "variations": [
+      "facultative anaerobe",
+      "facultative anaerobes"
+    ],
+    "emoji": "🦠🔄🌬️",
+    "id": "gl188"
+  },
+  "faeces": {
+    "word": "faeces",
+    "definition": "solid waste removed from the body after digestion",
+    "variations": [
+      "faeces"
+    ],
+    "emoji": "🚽🟤",
+    "id": "gl189"
+  },
+  "fat": {
+    "word": "fat",
+    "definition": "a food nutrient that provides energy and helps protect the body, but too much can be harmful",
+    "variations": [
+      "fat",
+      "fats"
+    ],
+    "emoji": "🧈⚡",
+    "id": "gl190"
+  },
+  "fat-soluble": {
+    "word": "fat-soluble",
+    "definition": "able to dissolve in fat and be stored in the body",
+    "variations": [
+      "fat-soluble"
+    ],
+    "emoji": "🧈💊",
+    "id": "gl191"
+  },
+  "fat-soluble vitamin": {
+    "word": "fat-soluble vitamin",
+    "definition": "a vitamin that dissolves in fat and can be stored in the body",
+    "variations": [
+      "fat-soluble vitamin",
+      "fat-soluble vitamins"
+    ],
+    "emoji": "💊🫒",
+    "id": "gl192"
+  },
+  "fatty acid": {
+    "word": "fatty acid",
+    "definition": "a building part of fats and oils",
+    "variations": [
+      "fatty acid",
+      "fatty acids"
+    ],
+    "emoji": "🧪🥑",
+    "id": "gl193"
+  },
+  "fermentation": {
+    "word": "fermentation",
+    "definition": "a process in which sugar is broken down without oxygen to release a small amount of energy, often producing alcohol or acid.",
+    "variations": [
+      "fermentation",
+      "ferment"
+    ],
+    "emoji": "🧪🍞⚡",
+    "id": "gl194"
+  },
+  "fibre": {
+    "word": "fibre",
+    "definition": "the part of plant food that is not digested but helps food move through the gut",
+    "variations": [
+      "fibre",
+      "fibres"
+    ],
+    "emoji": "🥬🍎➡️",
+    "id": "gl195"
+  },
+  "fibrin": {
+    "word": "fibrin",
+    "definition": "insoluble fibers that form a net to make a blood clot",
+    "variations": [
+      "fibrin"
+    ],
+    "emoji": "🕸️🩸",
+    "id": "gl196"
+  },
+  "fibrinogen": {
+    "word": "fibrinogen",
+    "definition": "a soluble blood protein that changes into fibrin during clotting",
+    "variations": [
+      "fibrinogen"
+    ],
+    "emoji": "🩸🧪",
+    "id": "gl197"
+  },
+  "fibrous layer": {
+    "word": "fibrous layer",
+    "definition": "the strong outer layer of a blood vessel made of connective tissue.",
+    "variations": [
+      "fibrous layers"
+    ],
+    "emoji": "🧵🛡️",
+    "id": "gl198"
+  },
+  "fibrous root": {
+    "word": "fibrous root",
+    "definition": "a root system made of many thin roots spreading out from the stem base",
+    "variations": [
+      "fibrous roots"
+    ],
+    "emoji": "🌾🌱",
+    "id": "gl199"
+  },
+  "filtration": {
+    "word": "filtration",
+    "definition": "the process by which fluid passes through tiny openings because of pressure",
+    "variations": [
+      "filtration",
+      "filter",
+      "filters",
+      "filtered"
+    ],
+    "emoji": "💧🧪",
+    "id": "gl200"
+  },
+  "flaccid": {
+    "word": "flaccid",
+    "definition": "soft and limp because a plant cell has lost water",
+    "variations": [],
+    "emoji": "🥬⬇️",
+    "id": "gl201"
+  },
+  "flatulence": {
+    "word": "flatulence",
+    "definition": "the passing of gas from the digestive system through the anus",
+    "variations": [
+      "flatulence"
+    ],
+    "emoji": "💨😳🫃",
+    "id": "gl202"
+  },
+  "foetus": {
+    "word": "foetus",
+    "definition": "an unborn baby developing inside the mother’s womb",
+    "variations": [
+      "foetus",
+      "foetuses"
+    ],
+    "emoji": "👶🤰",
+    "id": "gl203"
+  },
+  "folic acid": {
+    "word": "folic acid",
+    "definition": "a vitamin that helps the baby grow properly before birth",
+    "variations": [
+      "folic acid"
+    ],
+    "emoji": "💊🤰",
+    "id": "gl204"
+  },
+  "food guide pyramid": {
+    "word": "food guide pyramid",
+    "definition": "a chart that shows the kinds and amounts of food people should eat for health",
+    "variations": [
+      "food guide pyramid",
+      "food guide pyramids"
+    ],
+    "emoji": "🔺🍎",
+    "id": "gl205"
+  },
+  "food sample": {
+    "word": "food sample",
+    "definition": "a small amount of food taken from the main mixture or stock for testing",
+    "variations": [
+      "food sample",
+      "food samples"
+    ],
+    "emoji": "🥣🧪",
+    "id": "gl206"
+  },
+  "food test": {
+    "word": "food test",
+    "definition": "an experiment used to find out which nutrients are in a food sample",
+    "variations": [
+      "food test",
+      "food tests"
+    ],
+    "emoji": "🧪🍽️",
+    "id": "gl207"
+  },
+  "friction": {
+    "word": "friction",
+    "definition": "the rubbing force between surfaces that can cause resistance or wear.",
+    "variations": [
+      "frictions"
+    ],
+    "emoji": "🔄⚠️",
+    "id": "gl208"
+  },
+  "fructose": {
+    "word": "fructose",
+    "definition": "a simple sugar commonly found in fruits",
+    "variations": [
+      "fructose"
+    ],
+    "emoji": "🍎🍬",
+    "id": "gl209"
+  },
+  "fungi": {
+    "word": "fungi",
+    "definition": "a group of organisms that includes moulds, mushrooms, and yeasts",
+    "variations": [
+      "fungus",
+      "fungi"
+    ],
+    "emoji": "🍄🧫",
+    "id": "gl210"
+  },
+  "galactose": {
+    "word": "galactose",
+    "definition": "a simple sugar found as part of milk sugar",
+    "variations": [
+      "galactose"
+    ],
+    "emoji": "🥛🍬",
+    "id": "gl211"
+  },
+  "gall bladder": {
+    "word": "gall bladder",
+    "definition": "a small organ that stores bile before releasing it into the small intestine",
+    "variations": [
+      "gall bladder",
+      "gall bladders"
+    ],
+    "emoji": "🟢🫙",
+    "id": "gl212"
+  },
+  "gas exchange": {
+    "word": "gas exchange",
+    "definition": "the movement of oxygen into the body and carbon dioxide out of the body",
+    "variations": [
+      "gas exchange"
+    ],
+    "emoji": "🫁🔄",
+    "id": "gl213"
+  },
+  "gastric gland": {
+    "word": "gastric gland",
+    "definition": "a gland in the stomach wall that produces gastric juice",
+    "variations": [
+      "gastric gland",
+      "gastric glands"
+    ],
+    "emoji": "🧪🫃",
+    "id": "gl214"
+  },
+  "gastric juice": {
+    "word": "gastric juice",
+    "definition": "a digestive liquid in the stomach that contains acid and enzymes",
+    "variations": [
+      "gastric juice",
+      "gastric juices"
+    ],
+    "emoji": "🧪🍲",
+    "id": "gl215"
+  },
+  "gastric ulcer": {
+    "word": "gastric ulcer",
+    "definition": "an ulcer found in the stomach lining",
+    "variations": [
+      "gastric ulcer",
+      "gastric ulcers"
+    ],
+    "emoji": "🫃🩹🔥",
+    "id": "gl216"
+  },
+  "gene therapy": {
+    "word": "gene therapy",
+    "definition": "medical treatment that changes genes to help treat or prevent disease",
+    "variations": [
+      "gene therapy"
+    ],
+    "emoji": "🧬🏥",
+    "id": "gl217"
+  },
+  "germination": {
+    "word": "germination",
+    "definition": "the process by which a seed starts to grow into a new plant",
+    "variations": [
+      "germinate",
+      "germinated",
+      "germinates",
+      "germinating"
+    ],
+    "emoji": "🌱🌾",
+    "id": "gl218"
+  },
+  "gills": {
+    "word": "gills",
+    "definition": "breathing organs in fish and some other animals that take oxygen from water",
+    "variations": [
+      "gill",
+      "gills"
+    ],
+    "emoji": "🐟💧",
+    "id": "gl219"
+  },
+  "glottis": {
+    "word": "glottis",
+    "definition": "the opening at the top of the trachea through which air passes",
+    "variations": [
+      "glottis",
+      "glottises"
+    ],
+    "emoji": "🌬️🫁",
+    "id": "gl220"
+  },
+  "glucose": {
+    "word": "glucose",
+    "definition": "a simple sugar that cells use as a main source of energy",
+    "variations": [
+      "glucose"
+    ],
+    "emoji": "🍬⚡",
+    "id": "gl221"
+  },
+  "glycerol": {
+    "word": "glycerol",
+    "definition": "a substance that joins with fatty acids to make fats and oils",
+    "variations": [
+      "glycerol"
+    ],
+    "emoji": "🧴🧪",
+    "id": "gl222"
+  },
+  "glycogen": {
+    "word": "glycogen",
+    "definition": "a stored form of glucose found in the liver and muscles",
+    "variations": [
+      "glycogen"
+    ],
+    "emoji": "💪🧠",
+    "id": "gl223"
+  },
+  "glycolysis": {
+    "word": "glycolysis",
+    "definition": "the first stage of respiration in which glucose is broken down into smaller molecules",
+    "variations": [
+      "glycolysis"
+    ],
+    "emoji": "🍬⚗️",
+    "id": "gl224"
+  },
+  "granule": {
+    "word": "granule",
+    "definition": "a very small grain or particle of a substance such as starch",
+    "variations": [
+      "granule",
+      "granules"
+    ],
+    "emoji": "⚪🔬",
+    "id": "gl225"
+  },
+  "grease spot test": {
+    "word": "grease spot test",
+    "definition": "a test used to show the presence of fats or oils by leaving a translucent spot",
+    "variations": [
+      "grease spot test",
+      "grease spot tests"
+    ],
+    "emoji": "🧻🫒",
+    "id": "gl226"
+  },
+  "greenhouse effect": {
+    "word": "greenhouse effect",
+    "definition": "the warming of Earth when gases in the atmosphere trap heat",
+    "variations": [
+      "greenhouse effect"
+    ],
+    "emoji": "🌍☀️🌡️",
+    "id": "gl227"
+  },
+  "guard cell": {
+    "word": "guard cell",
+    "definition": "one of the two special cells that open and close a stoma",
+    "variations": [
+      "guard cell",
+      "guard cells"
+    ],
+    "emoji": "🚪🍃",
+    "id": "gl228"
+  },
+  "guard cells": {
+    "word": "guard cells",
+    "definition": "special cells around a stoma that control its opening and closing",
+    "variations": [
+      "guard cell",
+      "guard cells"
+    ],
+    "emoji": "🍃🚪",
+    "id": "gl229"
+  },
+  "guttation": {
+    "word": "guttation",
+    "definition": "the loss of liquid water drops from the tips or edges of leaves",
+    "variations": [
+      "guttation"
+    ],
+    "emoji": "🍃💧",
+    "id": "gl230"
+  },
+  "habitat": {
+    "word": "habitat",
+    "definition": "the natural place where an organism lives",
+    "variations": [
+      "habitat",
+      "habitats"
+    ],
+    "emoji": "🏞️🐾",
+    "id": "gl231"
+  },
+  "haemoglobin": {
+    "word": "haemoglobin",
+    "definition": "a protein in red blood cells that carries oxygen around the body",
+    "variations": [
+      "haemoglobin"
+    ],
+    "emoji": "🩸🫁",
+    "id": "gl232"
+  },
+  "haemolysis": {
+    "word": "haemolysis",
+    "definition": "the bursting of a red blood cell after taking in too much water",
+    "variations": [
+      "haemolyse",
+      "haemolysed",
+      "haemolyses"
+    ],
+    "emoji": "🩸💥",
+    "id": "gl233"
+  },
+  "heart": {
+    "word": "heart",
+    "definition": "a muscular organ that pumps blood around the body.",
+    "variations": [
+      "hearts",
+      "cardiac"
+    ],
+    "emoji": "❤️🫀",
+    "id": "gl234"
+  },
+  "heartburn": {
+    "word": "heartburn",
+    "definition": "a burning pain in the chest or throat caused when acidic stomach contents flow back into the oesophagus",
+    "variations": [
+      "heartburn"
+    ],
+    "emoji": "🔥胸😣",
+    "id": "gl235"
+  },
+  "Helicobacter pylori": {
+    "word": "Helicobacter pylori",
+    "definition": "a type of bacteria that can damage the stomach lining and cause ulcers",
+    "variations": [
+      "Helicobacter pylori",
+      "H. pylori"
+    ],
+    "emoji": "🦠🫃⚠️",
+    "id": "gl236"
+  },
+  "hepatic portal vein": {
+    "word": "hepatic portal vein",
+    "definition": "the vein that carries absorbed nutrients from the small intestine to the liver",
+    "variations": [
+      "hepatic portal vein",
+      "hepatic portal veins"
+    ],
+    "emoji": "🩸➡️🫀",
+    "id": "gl237"
+  },
+  "herbivore": {
+    "word": "herbivore",
+    "definition": "an animal that feeds on plants",
+    "variations": [
+      "herbivore",
+      "herbivores",
+      "herbivorous"
+    ],
+    "emoji": "🐄🌿",
+    "id": "gl238"
+  },
+  "herbivorous": {
+    "word": "herbivorous",
+    "definition": "describing an animal that feeds on plants",
+    "variations": [
+      "herbivorous",
+      "herbivore",
+      "herbivores"
+    ],
+    "emoji": "🐐🌿",
+    "id": "gl239"
+  },
+  "heterodonty": {
+    "word": "heterodonty",
+    "definition": "a condition in which an animal has different types of teeth with different functions",
+    "variations": [
+      "heterodonty"
+    ],
+    "emoji": "🦷🔍",
+    "id": "gl240"
+  },
+  "heterotroph": {
+    "word": "heterotroph",
+    "definition": "an organism that cannot make its own food and must feed on other organisms",
+    "variations": [
+      "heterotroph",
+      "heterotrophs"
+    ],
+    "emoji": "🍽️🦁",
+    "id": "gl241"
+  },
+  "heterotrophic": {
+    "word": "heterotrophic",
+    "definition": "describing organisms that cannot make their own food and must get it from other organisms",
+    "variations": [
+      "heterotrophic",
+      "heterotroph",
+      "heterotrophs"
+    ],
+    "emoji": "🐄🍽️",
+    "id": "gl242"
+  },
+  "HIV": {
+    "word": "HIV",
+    "definition": "a virus that attacks important white blood cells and weakens the immune system",
+    "variations": [
+      "HIV"
+    ],
+    "emoji": "🦠🛡️",
+    "id": "gl243"
+  },
+  "holozoic nutrition": {
+    "word": "holozoic nutrition",
+    "definition": "a type of nutrition in which an organism takes in solid food, digests it, absorbs it, and uses it",
+    "variations": [
+      "holozoic nutrition",
+      "holozoic"
+    ],
+    "emoji": "🦁🍖",
+    "id": "gl244"
+  },
+  "hormone": {
+    "word": "hormone",
+    "definition": "a chemical messenger in the body that helps control different activities",
+    "variations": [
+      "hormone",
+      "hormones"
+    ],
+    "emoji": "📨🧠",
+    "id": "gl245"
+  },
+  "host": {
+    "word": "host",
+    "definition": "an organism that supports another organism living on or inside it",
+    "variations": [
+      "host",
+      "hosts"
+    ],
+    "emoji": "🐄🧍",
+    "id": "gl246"
+  },
+  "humidity": {
+    "word": "humidity",
+    "definition": "the amount of water vapour in the air",
+    "variations": [
+      "humidity",
+      "humid"
+    ],
+    "emoji": "💧🌫️",
+    "id": "gl247"
+  },
+  "hydathode": {
+    "word": "hydathode",
+    "definition": "a small opening at the edge or tip of a leaf through which liquid water is released during guttation",
+    "variations": [
+      "hydathode",
+      "hydathodes"
+    ],
+    "emoji": "🍃💦",
+    "id": "gl248"
+  },
+  "hydrochloric acid": {
+    "word": "hydrochloric acid",
+    "definition": "a strong acid used in experiments, including breaking down non-reducing sugars",
+    "variations": [
+      "hydrochloric acid"
+    ],
+    "emoji": "🧪⚠️",
+    "id": "gl249"
+  },
+  "hydrolysis": {
+    "word": "hydrolysis",
+    "definition": "a process in which a substance is broken down by adding water, often with the help of an acid",
+    "variations": [
+      "hydrolysis",
+      "hydrolyse",
+      "hydrolysed"
+    ],
+    "emoji": "💧🔬",
+    "id": "gl250"
+  },
+  "hydrophilic": {
+    "word": "hydrophilic",
+    "definition": "water-loving; able to attract or mix with water",
+    "variations": [
+      "hydrophilic"
+    ],
+    "emoji": "💧❤️",
+    "id": "gl251"
+  },
+  "hypertension": {
+    "word": "hypertension",
+    "definition": "abnormally high blood pressure",
+    "variations": [
+      "hypertension",
+      "hypertensive"
+    ],
+    "emoji": "🩺⬆️",
+    "id": "gl252"
+  },
+  "hypertonic": {
+    "word": "hypertonic",
+    "definition": "describing a solution with less water and more solute compared to another solution",
+    "variations": [
+      "hypertonic solution",
+      "hypertonic solutions"
+    ],
+    "emoji": "🧂⬆️",
+    "id": "gl253"
+  },
+  "hypotonic": {
+    "word": "hypotonic",
+    "definition": "describing a solution with more water and less solute compared to another solution",
+    "variations": [
+      "hypotonic solution",
+      "hypotonic solutions"
+    ],
+    "emoji": "💧⬇️",
+    "id": "gl254"
+  },
+  "ileum": {
+    "word": "ileum",
+    "definition": "the last part of the small intestine where digested food is absorbed",
+    "variations": [
+      "ileum",
+      "ilea"
+    ],
+    "emoji": "🍽️🧬",
+    "id": "gl255"
+  },
+  "immune response": {
+    "word": "immune response",
+    "definition": "the way the body reacts to fight germs and disease",
+    "variations": [
+      "immune response",
+      "immune responses"
+    ],
+    "emoji": "🛡️🦠",
+    "id": "gl256"
+  },
+  "immunity": {
+    "word": "immunity",
+    "definition": "the body’s ability to resist disease",
+    "variations": [
+      "immunity",
+      "immune"
+    ],
+    "emoji": "🛡️💪",
+    "id": "gl257"
+  },
+  "incisor": {
+    "word": "incisor",
+    "definition": "a front tooth used for biting and cutting food",
+    "variations": [
+      "incisor",
+      "incisors"
+    ],
+    "emoji": "🦷✂️",
+    "id": "gl258"
+  },
+  "incompatible": {
+    "word": "incompatible",
+    "definition": "not able to mix safely because it may cause a harmful reaction",
+    "variations": [
+      "incompatible",
+      "incompatibility"
+    ],
+    "emoji": "❌🩸",
+    "id": "gl259"
+  },
+  "indigestion": {
+    "word": "indigestion",
+    "definition": "a condition in which food is digested slowly and causes discomfort in the stomach",
+    "variations": [
+      "indigestion"
+    ],
+    "emoji": "🤢🍽️😣",
+    "id": "gl260"
+  },
+  "infection": {
+    "word": "infection",
+    "definition": "a condition in which harmful microorganisms enter the body and cause disease",
+    "variations": [
+      "infection",
+      "infections"
+    ],
+    "emoji": "🦠🤒",
+    "id": "gl261"
+  },
+  "inference": {
+    "word": "inference",
+    "definition": "a conclusion made from what has been observed",
+    "variations": [
+      "inference",
+      "inferences",
+      "infer"
+    ],
+    "emoji": "🧠📌",
+    "id": "gl262"
+  },
+  "inflammation": {
+    "word": "inflammation",
+    "definition": "swelling, pain, or redness in a body part caused by injury or infection",
+    "variations": [
+      "inflammation",
+      "inflamed",
+      "inflate"
+    ],
+    "emoji": "🔥🫁",
+    "id": "gl263"
+  },
+  "ingestion": {
+    "word": "ingestion",
+    "definition": "the process of taking food into the body through the mouth",
+    "variations": [
+      "ingestion"
+    ],
+    "emoji": "👄🍽️",
+    "id": "gl264"
+  },
+  "inhalation": {
+    "word": "inhalation",
+    "definition": "the process of breathing air into the lungs",
+    "variations": [
+      "inhalation",
+      "inhalations",
+      "inhale",
+      "inhaling",
+      "inhaled"
+    ],
+    "emoji": "🌬️⬇️🫁",
+    "id": "gl265"
+  },
+  "insoluble": {
+    "word": "insoluble",
+    "definition": "not able to dissolve in a liquid",
+    "variations": [
+      "insoluble"
+    ],
+    "emoji": "🚫💧",
+    "id": "gl266"
+  },
+  "intercellular space": {
+    "word": "intercellular space",
+    "definition": "a small space between cells",
+    "variations": [
+      "intercellular spaces"
+    ],
+    "emoji": "↔️🔬",
+    "id": "gl267"
+  },
+  "intercellular spaces": {
+    "word": "intercellular spaces",
+    "definition": "spaces between cells where gases can move",
+    "variations": [
+      "intercellular space",
+      "intercellular spaces"
+    ],
+    "emoji": "↔️🔬",
+    "id": "gl268"
+  },
+  "intercostal muscles": {
+    "word": "intercostal muscles",
+    "definition": "muscles between the ribs that help in breathing",
+    "variations": [
+      "intercostal muscle",
+      "intercostal muscles"
+    ],
+    "emoji": "💪🫁",
+    "id": "gl269"
+  },
+  "interstitial fluid": {
+    "word": "interstitial fluid",
+    "definition": "another name for tissue fluid found in the spaces between body cells",
+    "variations": [
+      "interstitial fluid",
+      "interstitial fluids"
+    ],
+    "emoji": "💧🔬",
+    "id": "gl270"
+  },
+  "iodine solution": {
+    "word": "iodine solution",
+    "definition": "a chemical solution used to test for starch; it turns blue-black if starch is present",
+    "variations": [
+      "iodine solution"
+    ],
+    "emoji": "🧪🟤",
+    "id": "gl271"
+  },
+  "iron": {
+    "word": "iron",
+    "definition": "a mineral needed to make red blood cells",
+    "variations": [
+      "iron"
+    ],
+    "emoji": "🩸⚙️",
+    "id": "gl272"
+  },
+  "isolation": {
+    "word": "isolation",
+    "definition": "separating infected people from others to prevent the spread of disease.",
+    "variations": [
+      "isolation",
+      "isolations"
+    ],
+    "emoji": "🚪🦠🛑",
+    "id": "gl273"
+  },
+  "isotonic": {
+    "word": "isotonic",
+    "definition": "describing two solutions that have the same concentration, so there is no net movement of water",
+    "variations": [
+      "isotonic solution",
+      "isotonic solutions"
+    ],
+    "emoji": "⚖️💧",
+    "id": "gl274"
+  },
+  "isotonic solution": {
+    "word": "isotonic solution",
+    "definition": "a solution that has the same concentration as another solution",
+    "variations": [
+      "isotonic solution",
+      "isotonic solutions"
+    ],
+    "emoji": "⚖️💧",
+    "id": "gl275"
+  },
+  "kilocalorie": {
+    "word": "kilocalorie",
+    "definition": "a larger unit for measuring food energy, often written as kcal",
+    "variations": [
+      "kilocalorie",
+      "kilocalories",
+      "kcal"
+    ],
+    "emoji": "⚡📏",
+    "id": "gl276"
+  },
+  "Krebs’ cycle": {
+    "word": "Krebs’ cycle",
+    "definition": "a stage of aerobic respiration in the mitochondria that helps release energy from food",
+    "variations": [
+      "Krebs cycle",
+      "Krebs’ cycle",
+      "citric acid cycle"
+    ],
+    "emoji": "🔄🔋",
+    "id": "gl277"
+  },
+  "kwashiorkor": {
+    "word": "kwashiorkor",
+    "definition": "a disease caused mainly by lack of protein, often seen in children",
+    "variations": [
+      "kwashiorkor"
+    ],
+    "emoji": "🥣⚠️",
+    "id": "gl278"
+  },
+  "lactase": {
+    "word": "lactase",
+    "definition": "an enzyme that changes lactose into glucose and galactose",
+    "variations": [
+      "lactase",
+      "lactases"
+    ],
+    "emoji": "🥛🧪",
+    "id": "gl279"
+  },
+  "lactating mother": {
+    "word": "lactating mother",
+    "definition": "a mother who is producing milk to feed her baby",
+    "variations": [
+      "lactating mother",
+      "lactating mothers"
+    ],
+    "emoji": "🤱🍼",
+    "id": "gl280"
+  },
+  "lacteal": {
+    "word": "lacteal",
+    "definition": "a small lymph vessel in a villus that absorbs fatty acids and glycerol",
+    "variations": [
+      "lacteal",
+      "lacteals"
+    ],
+    "emoji": "🧫💧",
+    "id": "gl281"
+  },
+  "lactic acid": {
+    "word": "lactic acid",
+    "definition": "a substance produced in some cells during anaerobic respiration",
+    "variations": [
+      "lactic acid"
+    ],
+    "emoji": "🧪💪",
+    "id": "gl282"
+  },
+  "lactose": {
+    "word": "lactose",
+    "definition": "the sugar found in milk",
+    "variations": [
+      "lactose"
+    ],
+    "emoji": "🥛🍬",
+    "id": "gl283"
+  },
+  "large intestine": {
+    "word": "large intestine",
+    "definition": "the part of the gut that absorbs water and stores waste before removal",
+    "variations": [
+      "large intestine",
+      "large intestines"
+    ],
+    "emoji": "💧➡️",
+    "id": "gl284"
+  },
+  "larynx": {
+    "word": "larynx",
+    "definition": "the voice box; a structure in the throat that helps air pass to the trachea",
+    "variations": [
+      "larynx",
+      "larynges"
+    ],
+    "emoji": "🗣️🌬️",
+    "id": "gl285"
+  },
+  "lateral root": {
+    "word": "lateral root",
+    "definition": "a smaller root that grows out from the main root",
+    "variations": [
+      "lateral roots"
+    ],
+    "emoji": "↔️🌱",
+    "id": "gl286"
+  },
+  "lenticel": {
+    "word": "lenticel",
+    "definition": "a small pore in the bark of a woody stem or root that allows gas exchange",
+    "variations": [
+      "lenticel",
+      "lenticels",
+      "lenticular"
+    ],
+    "emoji": "🌳🕳️",
+    "id": "gl287"
+  },
+  "lenticels": {
+    "word": "lenticels",
+    "definition": "small openings in stems or roots of woody plants that allow gas exchange",
+    "variations": [
+      "lenticel",
+      "lenticels"
+    ],
+    "emoji": "🌳🕳️",
+    "id": "gl288"
+  },
+  "leucocyte": {
+    "word": "leucocyte",
+    "definition": "another name for a white blood cell",
+    "variations": [
+      "leucocyte",
+      "leucocytes"
+    ],
+    "emoji": "⚪🛡️",
+    "id": "gl289"
+  },
+  "leukaemia": {
+    "word": "leukaemia",
+    "definition": "a type of blood cancer in which too many abnormal white blood cells are produced",
+    "variations": [
+      "leukaemia",
+      "leukaemias"
+    ],
+    "emoji": "🩸⚠️",
+    "id": "gl290"
+  },
+  "lignin": {
+    "word": "lignin",
+    "definition": "a hard substance in some plant cell walls that makes them strong and rigid",
+    "variations": [
+      "lignified"
+    ],
+    "emoji": "🪵🧱",
+    "id": "gl291"
+  },
+  "lipase": {
+    "word": "lipase",
+    "definition": "an enzyme that breaks down fats and oils into fatty acids and glycerol",
+    "variations": [
+      "lipase"
+    ],
+    "emoji": "🧪🫒",
+    "id": "gl292"
+  },
+  "lipid": {
+    "word": "lipid",
+    "definition": "a group of substances such as fats and oils that store energy and help build cells",
+    "variations": [
+      "lipid",
+      "lipids"
+    ],
+    "emoji": "🧈🫒",
+    "id": "gl293"
+  },
+  "liver": {
+    "word": "liver",
+    "definition": "a large organ that makes bile and helps process nutrients",
+    "variations": [
+      "liver",
+      "livers"
+    ],
+    "emoji": "🧫🟤",
+    "id": "gl294"
+  },
+  "longitudinal muscle": {
+    "word": "longitudinal muscle",
+    "definition": "a muscle that runs lengthwise and helps move food along the gut",
+    "variations": [
+      "longitudinal muscle",
+      "longitudinal muscles"
+    ],
+    "emoji": "📏💪",
+    "id": "gl295"
+  },
+  "lumen": {
+    "word": "lumen",
+    "definition": "the inner space inside a tube-like organ such as the intestine or oesophagus",
+    "variations": [
+      "lumen",
+      "lumens"
+    ],
+    "emoji": "🕳️➡️",
+    "id": "gl296"
+  },
+  "lung": {
+    "word": "lung",
+    "definition": "an organ used for breathing and gas exchange",
+    "variations": [
+      "lung",
+      "lungs"
+    ],
+    "emoji": "🫁😮‍💨",
+    "id": "gl297"
+  },
+  "lungs": {
+    "word": "lungs",
+    "definition": "organs used for breathing and gas exchange in mammals, birds, and many other animals",
+    "variations": [
+      "lung",
+      "lungs"
+    ],
+    "emoji": "🫁",
+    "id": "gl298"
+  },
+  "lymph": {
+    "word": "lymph",
+    "definition": "a clear fluid formed from excess tissue fluid that moves through lymphatic vessels",
+    "variations": [
+      "lymph",
+      "lymph fluid"
+    ],
+    "emoji": "💧",
+    "id": "gl299"
+  },
+  "lymphatic system": {
+    "word": "lymphatic system",
+    "definition": "the body system that carries lymph and helps with fluid balance and defense against disease",
+    "variations": [
+      "lymphatic systems"
+    ],
+    "emoji": "🛡️💧",
+    "id": "gl300"
+  },
+  "macronutrient": {
+    "word": "macronutrient",
+    "definition": "a nutrient needed by the body in large amounts, such as carbohydrates, proteins, and fats",
+    "variations": [
+      "macronutrient",
+      "macronutrients"
+    ],
+    "emoji": "🍚🥩🥑",
+    "id": "gl301"
+  },
+  "macrophage": {
+    "word": "macrophage",
+    "definition": "a type of white blood cell that engulfs and destroys pathogens",
+    "variations": [
+      "macrophage",
+      "macrophages"
+    ],
+    "emoji": "⚪🦠🛡️",
+    "id": "gl302"
+  },
+  "malnutrition": {
+    "word": "malnutrition",
+    "definition": "poor health caused by getting too little, too much, or unbalanced food nutrients",
+    "variations": [
+      "malnutrition"
+    ],
+    "emoji": "⚠️🍽️",
+    "id": "gl303"
+  },
+  "maltase": {
+    "word": "maltase",
+    "definition": "an enzyme that changes maltose into glucose",
+    "variations": [
+      "maltase",
+      "maltases"
+    ],
+    "emoji": "🧪🍞",
+    "id": "gl304"
+  },
+  "maltose": {
+    "word": "maltose",
+    "definition": "a sugar made from two glucose molecules",
+    "variations": [
+      "maltose"
+    ],
+    "emoji": "🌾🍬",
+    "id": "gl305"
+  },
+  "mammal": {
+    "word": "mammal",
+    "definition": "a warm-blooded animal that has hair or fur and feeds its young with milk.",
+    "variations": [
+      "mammals",
+      "mammalian"
+    ],
+    "emoji": "🐾🦴",
+    "id": "gl306"
+  },
+  "marasmus": {
+    "word": "marasmus",
+    "definition": "severe malnutrition caused by not getting enough food, especially in children",
+    "variations": [
+      "marasmus"
+    ],
+    "emoji": "⚠️🧒",
+    "id": "gl307"
+  },
+  "mass flow": {
+    "word": "mass flow",
+    "definition": "the movement of substances in a group from one place to another because of pressure differences",
+    "variations": [
+      "mass flow"
+    ],
+    "emoji": "➡️🌊ضغط",
+    "id": "gl308"
+  },
+  "mastication": {
+    "word": "mastication",
+    "definition": "the chewing of food in the mouth",
+    "variations": [
+      "mastication"
+    ],
+    "emoji": "🦷🍎",
+    "id": "gl309"
+  },
+  "mechanical digestion": {
+    "word": "mechanical digestion",
+    "definition": "the physical breaking of food into smaller pieces, such as by chewing and churning",
+    "variations": [
+      "mechanical digestion"
+    ],
+    "emoji": "🦷⚙️",
+    "id": "gl310"
+  },
+  "mesophyll": {
+    "word": "mesophyll",
+    "definition": "the inner tissue of a leaf where photosynthesis mainly happens",
+    "variations": [
+      "mesophyll"
+    ],
+    "emoji": "🍃☀️",
+    "id": "gl311"
+  },
+  "metabolic": {
+    "word": "metabolic",
+    "definition": "related to the chemical processes in the body that keep it alive",
+    "variations": [
+      "metabolic",
+      "metabolism"
+    ],
+    "emoji": "⚡🧬",
+    "id": "gl312"
+  },
+  "metabolic rate": {
+    "word": "metabolic rate",
+    "definition": "the speed at which the body uses energy.",
+    "variations": [
+      "metabolic rates"
+    ],
+    "emoji": "⚡🧍",
+    "id": "gl313"
+  },
+  "metabolism": {
+    "word": "metabolism",
+    "definition": "all the chemical processes in the body that keep a living thing alive",
+    "variations": [
+      "metabolism",
+      "metabolic"
+    ],
+    "emoji": "⚙️🔥",
+    "id": "gl314"
+  },
+  "micronutrient": {
+    "word": "micronutrient",
+    "definition": "a nutrient needed by the body in small amounts, such as vitamins and minerals",
+    "variations": [
+      "micronutrient",
+      "micronutrients"
+    ],
+    "emoji": "💊🥕",
+    "id": "gl315"
+  },
+  "mineral": {
+    "word": "mineral",
+    "definition": "an inorganic nutrient needed by the body for health and proper functioning",
+    "variations": [
+      "mineral",
+      "minerals"
+    ],
+    "emoji": "🪨💪",
+    "id": "gl316"
+  },
+  "mineral salts": {
+    "word": "mineral salts",
+    "definition": "important minerals dissolved in water in the soil that plants absorb through their roots",
+    "variations": [
+      "mineral salt"
+    ],
+    "emoji": "🧂💧🌱",
+    "id": "gl317"
+  },
+  "mitochondria": {
+    "word": "mitochondria",
+    "definition": "parts of a cell where most energy is released during respiration",
+    "variations": [
+      "mitochondrion",
+      "mitochondria"
+    ],
+    "emoji": "🔋🧫",
+    "id": "gl318"
+  },
+  "mitochondrion": {
+    "word": "mitochondrion",
+    "definition": "the part of a cell that releases energy for cell activities",
+    "variations": [
+      "mitochondria"
+    ],
+    "emoji": "⚡🔬",
+    "id": "gl319"
+  },
+  "molar": {
+    "word": "molar",
+    "definition": "a large back tooth used for grinding and crushing food",
+    "variations": [
+      "molar",
+      "molars"
+    ],
+    "emoji": "🦷⚙️",
+    "id": "gl320"
+  },
+  "molecule": {
+    "word": "molecule",
+    "definition": "a group of atoms joined together; it is a tiny part of a substance",
+    "variations": [
+      "molecule",
+      "molecules"
+    ],
+    "emoji": "⚛️🔗",
+    "id": "gl321"
+  },
+  "monocot": {
+    "word": "monocot",
+    "definition": "a flowering plant with one seed leaf, such as maize",
+    "variations": [
+      "monocots",
+      "monocotyledonous"
+    ],
+    "emoji": "🌽🌱",
+    "id": "gl322"
+  },
+  "monosaccharide": {
+    "word": "monosaccharide",
+    "definition": "a simple sugar unit that forms carbohydrates",
+    "variations": [
+      "monosaccharide",
+      "monosaccharides"
+    ],
+    "emoji": "🍬🔗",
+    "id": "gl323"
+  },
+  "mucus": {
+    "word": "mucus",
+    "definition": "a slippery substance that protects the stomach lining",
+    "variations": [
+      "mucus"
+    ],
+    "emoji": "🛡️💧",
+    "id": "gl324"
+  },
+  "multicellular organism": {
+    "word": "multicellular organism",
+    "definition": "a living thing made of many cells",
+    "variations": [
+      "multicellular organism",
+      "multicellular organisms"
+    ],
+    "emoji": "🔬🧍",
+    "id": "gl325"
+  },
+  "mutualism": {
+    "word": "mutualism",
+    "definition": "a relationship between two species in which both benefit",
+    "variations": [
+      "mutualism",
+      "mutualistic"
+    ],
+    "emoji": "🤝🐄🦠",
+    "id": "gl326"
+  },
+  "myocardium": {
+    "word": "myocardium",
+    "definition": "the middle muscular layer of the heart wall that contracts to pump blood.",
+    "variations": [
+      "myocardia"
+    ],
+    "emoji": "🫀💪",
+    "id": "gl327"
+  },
+  "nasal cavity": {
+    "word": "nasal cavity",
+    "definition": "the space inside the nose that warms, moistens, and filters air",
+    "variations": [
+      "nasal cavity",
+      "nasal cavities"
+    ],
+    "emoji": "👃🌬️",
+    "id": "gl328"
+  },
+  "nausea": {
+    "word": "nausea",
+    "definition": "the feeling that you are about to vomit",
+    "variations": [
+      "nausea",
+      "nauseous"
+    ],
+    "emoji": "🤢😵",
+    "id": "gl329"
+  },
+  "neutralise": {
+    "word": "neutralise",
+    "definition": "to make an acid or base become balanced so it is no longer strongly acidic or basic",
+    "variations": [
+      "neutralise",
+      "neutralised",
+      "neutralising"
+    ],
+    "emoji": "⚖️🧪",
+    "id": "gl330"
+  },
+  "nicotine": {
+    "word": "nicotine",
+    "definition": "a harmful chemical in tobacco that can cause addiction.",
+    "variations": [
+      "nicotine"
+    ],
+    "emoji": "🚬⚠️",
+    "id": "gl331"
+  },
+  "non-communicable disease": {
+    "word": "non-communicable disease",
+    "definition": "a disease that does not spread from one person to another",
+    "variations": [
+      "non-communicable disease",
+      "non-communicable diseases"
+    ],
+    "emoji": "🏥🚫",
+    "id": "gl332"
+  },
+  "non-reducing sugar": {
+    "word": "non-reducing sugar",
+    "definition": "a sugar that does not react directly with Benedict’s solution unless it is first changed into simpler sugars",
+    "variations": [
+      "non-reducing sugar",
+      "non-reducing sugars"
+    ],
+    "emoji": "🚫🍬🧪",
+    "id": "gl333"
+  },
+  "nostril": {
+    "word": "nostril",
+    "definition": "one of the two openings of the nose through which air enters and leaves",
+    "variations": [
+      "nostril",
+      "nostrils"
+    ],
+    "emoji": "👃🌬️",
+    "id": "gl334"
+  },
+  "nucleus": {
+    "word": "nucleus",
+    "definition": "the control centre of a cell that contains genetic material",
+    "variations": [
+      "nuclei"
+    ],
+    "emoji": "🎯🧬",
+    "id": "gl335"
+  },
+  "nutrient": {
+    "word": "nutrient",
+    "definition": "a useful substance in food that the body needs to live, grow, and stay healthy",
+    "variations": [
+      "nutrient",
+      "nutrients"
+    ],
+    "emoji": "🥕💪",
+    "id": "gl336"
+  },
+  "nutrition": {
+    "word": "nutrition",
+    "definition": "the process and study of how living things get and use food for energy, growth, and health",
+    "variations": [
+      "nutrition",
+      "nutritional"
+    ],
+    "emoji": "🍎🥗",
+    "id": "gl337"
+  },
+  "nutritional deficiency": {
+    "word": "nutritional deficiency",
+    "definition": "a lack of an important nutrient in the body",
+    "variations": [
+      "nutritional deficiency",
+      "nutritional deficiencies"
+    ],
+    "emoji": "❌🥄",
+    "id": "gl338"
+  },
+  "nutritious": {
+    "word": "nutritious",
+    "definition": "good for health because it contains useful nutrients",
+    "variations": [
+      "nutritious"
+    ],
+    "emoji": "🥗✅",
+    "id": "gl339"
+  },
+  "obesity": {
+    "word": "obesity",
+    "definition": "having too much body fat, which can harm health",
+    "variations": [
+      "obesity"
+    ],
+    "emoji": "⚠️⚖️",
+    "id": "gl340"
+  },
+  "obligate anaerobe": {
+    "word": "obligate anaerobe",
+    "definition": "an organism that can live only where there is no oxygen.",
+    "variations": [
+      "obligate anaerobe",
+      "obligate anaerobes"
+    ],
+    "emoji": "🦠🚫🌬️",
+    "id": "gl341"
+  },
+  "observation": {
+    "word": "observation",
+    "definition": "carefully watching and noting what happens during an experiment",
+    "variations": [
+      "observation",
+      "observations",
+      "observe"
+    ],
+    "emoji": "👀📝",
+    "id": "gl342"
+  },
+  "oedema": {
+    "word": "oedema",
+    "definition": "swelling caused by too much fluid in the body tissues",
+    "variations": [
+      "oedema"
+    ],
+    "emoji": "💧⚠️",
+    "id": "gl343"
+  },
+  "oesophagus": {
+    "word": "oesophagus",
+    "definition": "the muscular tube that carries food from the mouth to the stomach",
+    "variations": [
+      "oesophagus",
+      "oesophaguses"
+    ],
+    "emoji": "🥣➡️",
+    "id": "gl344"
+  },
+  "oil": {
+    "word": "oil",
+    "definition": "a liquid fat that provides energy to the body",
+    "variations": [
+      "oil",
+      "oils"
+    ],
+    "emoji": "🫒💧",
+    "id": "gl345"
+  },
+  "omasum": {
+    "word": "omasum",
+    "definition": "the third chamber of a ruminant stomach where food is further mixed and some water is absorbed",
+    "variations": [
+      "omasum",
+      "omasums"
+    ],
+    "emoji": "🐄💧",
+    "id": "gl346"
+  },
+  "omnivore": {
+    "word": "omnivore",
+    "definition": "an animal that eats both plants and other animals",
+    "variations": [
+      "omnivore",
+      "omnivores",
+      "omnivorous"
+    ],
+    "emoji": "🐻🌿🍖",
+    "id": "gl347"
+  },
+  "omnivorous": {
+    "word": "omnivorous",
+    "definition": "describing an animal that feeds on both plants and animals",
+    "variations": [
+      "omnivorous",
+      "omnivore",
+      "omnivores"
+    ],
+    "emoji": "🐻🍎🍗",
+    "id": "gl348"
+  },
+  "optimal temperature": {
+    "word": "optimal temperature",
+    "definition": "the temperature at which something works best, such as an enzyme.",
+    "variations": [
+      "optimal temperature",
+      "optimum temperature"
+    ],
+    "emoji": "🌡️✅",
+    "id": "gl349"
+  },
+  "oral cavity": {
+    "word": "oral cavity",
+    "definition": "the space inside the mouth where food enters and chewing begins",
+    "variations": [
+      "oral cavity",
+      "oral cavities"
+    ],
+    "emoji": "👄🦷",
+    "id": "gl350"
+  },
+  "organ": {
+    "word": "organ",
+    "definition": "a body part made of different tissues that works to do a special function",
+    "variations": [
+      "organ",
+      "organs"
+    ],
+    "emoji": "🫀🫁",
+    "id": "gl351"
+  },
+  "organelle": {
+    "word": "organelle",
+    "definition": "a small structure inside a cell that has a special function",
+    "variations": [
+      "organelle",
+      "organelles"
+    ],
+    "emoji": "🔬🧫",
+    "id": "gl352"
+  },
+  "organic matter": {
+    "word": "organic matter",
+    "definition": "material that comes from living or once-living things",
+    "variations": [
+      "organic matter"
+    ],
+    "emoji": "🍂🌱",
+    "id": "gl353"
+  },
+  "organism": {
+    "word": "organism",
+    "definition": "a living thing such as a plant, animal, fungus, or bacterium",
+    "variations": [
+      "organism",
+      "organisms"
+    ],
+    "emoji": "🦠🌿🐾",
+    "id": "gl354"
+  },
+  "osmosis": {
+    "word": "osmosis",
+    "definition": "the movement of water through a partially permeable membrane from a dilute solution to a more concentrated one",
+    "variations": [
+      "osmosis"
+    ],
+    "emoji": "💧↔️🧫",
+    "id": "gl355"
+  },
+  "overweight": {
+    "word": "overweight",
+    "definition": "weighing more than is considered healthy for a person’s height",
+    "variations": [
+      "overweight"
+    ],
+    "emoji": "⚖️⬆️",
+    "id": "gl356"
+  },
+  "oxygen": {
+    "word": "oxygen",
+    "definition": "a gas needed by living things to release energy from food",
+    "variations": [
+      "oxygen"
+    ],
+    "emoji": "🫁🌬️",
+    "id": "gl357"
+  },
+  "oxygen debt": {
+    "word": "oxygen debt",
+    "definition": "the extra oxygen the body needs after hard activity to break down lactic acid.",
+    "variations": [
+      "oxygen debt"
+    ],
+    "emoji": "🌬️🏃📉",
+    "id": "gl358"
+  },
+  "oxygenated": {
+    "word": "oxygenated",
+    "definition": "containing a lot of oxygen",
+    "variations": [
+      "oxygenated"
+    ],
+    "emoji": "🫁🩸",
+    "id": "gl359"
+  },
+  "oxygenated blood": {
+    "word": "oxygenated blood",
+    "definition": "blood that contains a lot of oxygen.",
+    "variations": [
+      "oxygenated"
+    ],
+    "emoji": "🩸🫧",
+    "id": "gl360"
+  },
+  "oxyhaemoglobin": {
+    "word": "oxyhaemoglobin",
+    "definition": "the substance formed when oxygen combines with haemoglobin in the blood",
+    "variations": [
+      "oxyhaemoglobin",
+      "oxyhemoglobin"
+    ],
+    "emoji": "🩸O₂",
+    "id": "gl361"
+  },
+  "pancreas": {
+    "word": "pancreas",
+    "definition": "an organ that makes digestive juices and substances that help control sugar in the blood",
+    "variations": [
+      "pancreas",
+      "pancreases"
+    ],
+    "emoji": "🧪🫃",
+    "id": "gl362"
+  },
+  "pancreatic amylase": {
+    "word": "pancreatic amylase",
+    "definition": "an enzyme from the pancreas that breaks down starch into maltose",
+    "variations": [
+      "pancreatic amylase"
+    ],
+    "emoji": "🧪🌾",
+    "id": "gl363"
+  },
+  "pancreatic duct": {
+    "word": "pancreatic duct",
+    "definition": "a tube that carries pancreatic juice from the pancreas to the duodenum",
+    "variations": [
+      "pancreatic duct",
+      "pancreatic ducts"
+    ],
+    "emoji": "🧪➡️",
+    "id": "gl364"
+  },
+  "pancreatic juice": {
+    "word": "pancreatic juice",
+    "definition": "a digestive liquid from the pancreas that contains enzymes and bicarbonate",
+    "variations": [
+      "pancreatic juice",
+      "pancreatic juices"
+    ],
+    "emoji": "🧪🫃",
+    "id": "gl365"
+  },
+  "parasite": {
+    "word": "parasite",
+    "definition": "an organism that lives on or in another organism and gets food from it",
+    "variations": [
+      "parasite",
+      "parasites"
+    ],
+    "emoji": "🪱🦟",
+    "id": "gl366"
+  },
+  "parasitism": {
+    "word": "parasitism",
+    "definition": "a relationship in which one organism benefits while the other is harmed",
+    "variations": [
+      "parasitism",
+      "parasitic"
+    ],
+    "emoji": "🪱🩸",
+    "id": "gl367"
+  },
+  "parenchyma": {
+    "word": "parenchyma",
+    "definition": "simple living plant tissue that often stores food or water",
+    "variations": [
+      "parenchyma cells"
+    ],
+    "emoji": "📦🌱",
+    "id": "gl368"
+  },
+  "passive transport": {
+    "word": "passive transport",
+    "definition": "the movement of substances across a cell membrane without using energy",
+    "variations": [
+      "passive transport"
+    ],
+    "emoji": "🧫➡️😌",
+    "id": "gl369"
+  },
+  "pathogen": {
+    "word": "pathogen",
+    "definition": "a disease-causing organism or agent",
+    "variations": [
+      "pathogen",
+      "pathogens"
+    ],
+    "emoji": "🦠⚠️",
+    "id": "gl370"
+  },
+  "pepsin": {
+    "word": "pepsin",
+    "definition": "an enzyme in the stomach that digests proteins",
+    "variations": [
+      "pepsin"
+    ],
+    "emoji": "🧪🥩",
+    "id": "gl371"
+  },
+  "pepsinogen": {
+    "word": "pepsinogen",
+    "definition": "the inactive form of pepsin made in the stomach",
+    "variations": [
+      "pepsinogen"
+    ],
+    "emoji": "🧪⏸️",
+    "id": "gl372"
+  },
+  "peptic ulcer": {
+    "word": "peptic ulcer",
+    "definition": "a sore in the lining of the stomach or duodenum caused by acid or infection",
+    "variations": [
+      "peptic ulcer",
+      "peptic ulcers"
+    ],
+    "emoji": "🩹🔥😣",
+    "id": "gl373"
+  },
+  "peptidase": {
+    "word": "peptidase",
+    "definition": "an enzyme that breaks peptides into amino acids",
+    "variations": [
+      "peptidase",
+      "peptidases"
+    ],
+    "emoji": "🧬🧪",
+    "id": "gl374"
+  },
+  "peptide": {
+    "word": "peptide",
+    "definition": "a smaller molecule formed when proteins are partly broken down",
+    "variations": [
+      "peptide",
+      "peptides"
+    ],
+    "emoji": "🔗🧬",
+    "id": "gl375"
+  },
+  "pericardial fluid": {
+    "word": "pericardial fluid",
+    "definition": "the fluid around the heart that reduces friction as the heart beats.",
+    "variations": [
+      "pericardial fluids"
+    ],
+    "emoji": "💧🫀",
+    "id": "gl376"
+  },
+  "pericardium": {
+    "word": "pericardium",
+    "definition": "a tough double-layered sac that surrounds and protects the heart.",
+    "variations": [
+      "pericardial"
+    ],
+    "emoji": "🫀🛡️",
+    "id": "gl377"
+  },
+  "pericycle": {
+    "word": "pericycle",
+    "definition": "a layer of cells inside the root that can produce lateral roots",
+    "variations": [],
+    "emoji": "🌱🔄",
+    "id": "gl378"
+  },
+  "peristalsis": {
+    "word": "peristalsis",
+    "definition": "wave-like muscle movements that push food through the digestive canal",
+    "variations": [
+      "peristalsis"
+    ],
+    "emoji": "🌊➡️",
+    "id": "gl379"
+  },
+  "peristaltic movement": {
+    "word": "peristaltic movement",
+    "definition": "wave-like muscle movements that push food through the gut",
+    "variations": [
+      "peristaltic movement",
+      "peristaltic movements"
+    ],
+    "emoji": "➡️🍽️",
+    "id": "gl380"
+  },
+  "permeable": {
+    "word": "permeable",
+    "definition": "able to let substances pass through",
+    "variations": [
+      "permeability",
+      "impermeable"
+    ],
+    "emoji": "🚪💧",
+    "id": "gl381"
+  },
+  "phagocytosis": {
+    "word": "phagocytosis",
+    "definition": "the process in which a cell surrounds and destroys harmful particles or germs",
+    "variations": [
+      "phagocytosis"
+    ],
+    "emoji": "🦠⚪🍽️",
+    "id": "gl382"
+  },
+  "pharynx": {
+    "word": "pharynx",
+    "definition": "the part of the throat behind the mouth that leads to the oesophagus and trachea",
+    "variations": [
+      "pharynx",
+      "pharynxes"
+    ],
+    "emoji": "😮🫁",
+    "id": "gl383"
+  },
+  "phloem": {
+    "word": "phloem",
+    "definition": "plant tissue that transports food from the leaves to other parts of the plant",
+    "variations": [],
+    "emoji": "🌿🍃",
+    "id": "gl384"
+  },
+  "phosphorus": {
+    "word": "phosphorus",
+    "definition": "a mineral that helps build strong bones and teeth",
+    "variations": [
+      "phosphorus"
+    ],
+    "emoji": "🦴⚙️",
+    "id": "gl385"
+  },
+  "photosynthesis": {
+    "word": "photosynthesis",
+    "definition": "the process by which green plants make their own food using sunlight, water, and carbon dioxide",
+    "variations": [
+      "photosynthetic"
+    ],
+    "emoji": "☀️🍃🧪",
+    "id": "gl386"
+  },
+  "physical exercise": {
+    "word": "physical exercise",
+    "definition": "body movement or activity done to keep fit and healthy",
+    "variations": [
+      "physical exercise",
+      "physical exercises"
+    ],
+    "emoji": "🏃💪",
+    "id": "gl387"
+  },
+  "pigment": {
+    "word": "pigment",
+    "definition": "a colored substance in living things",
+    "variations": [
+      "pigment",
+      "pigments"
+    ],
+    "emoji": "🎨🟡",
+    "id": "gl388"
+  },
+  "pit": {
+    "word": "pit",
+    "definition": "a small thin area or opening in a plant cell wall that helps substances pass between cells",
+    "variations": [
+      "pits"
+    ],
+    "emoji": "🕳️🌿",
+    "id": "gl389"
+  },
+  "pith": {
+    "word": "pith",
+    "definition": "the soft central tissue found in some stems and roots",
+    "variations": [],
+    "emoji": "⭕🌿",
+    "id": "gl390"
+  },
+  "plaque": {
+    "word": "plaque",
+    "definition": "a sticky layer of bacteria and food particles that forms on teeth",
+    "variations": [
+      "plaque",
+      "plaques"
+    ],
+    "emoji": "🦠🦷",
+    "id": "gl391"
+  },
+  "plasma": {
+    "word": "plasma",
+    "definition": "the pale yellow liquid part of blood that carries blood cells and dissolved substances",
+    "variations": [
+      "plasma"
+    ],
+    "emoji": "🟡🩸",
+    "id": "gl392"
+  },
+  "plasmodesmata": {
+    "word": "plasmodesmata",
+    "definition": "tiny channels between plant cells that allow materials to move from one cell to another",
+    "variations": [],
+    "emoji": "🔗🌱",
+    "id": "gl393"
+  },
+  "plasmolysis": {
+    "word": "plasmolysis",
+    "definition": "the shrinking of a plant cell’s contents away from the cell wall after losing water",
+    "variations": [
+      "plasmolysed",
+      "plasmolyse",
+      "plasmolyses"
+    ],
+    "emoji": "🌱💧⬅️",
+    "id": "gl394"
+  },
+  "platelet": {
+    "word": "platelet",
+    "definition": "a small blood cell fragment that helps blood to clot",
+    "variations": [
+      "platelet",
+      "platelets"
+    ],
+    "emoji": "🩸🩹",
+    "id": "gl395"
+  },
+  "pleural fluid": {
+    "word": "pleural fluid",
+    "definition": "the fluid between pleural membranes that helps the lungs move smoothly",
+    "variations": [
+      "pleural fluid"
+    ],
+    "emoji": "💧🫁",
+    "id": "gl396"
+  },
+  "pleural membrane": {
+    "word": "pleural membrane",
+    "definition": "a thin membrane around the lungs that helps reduce friction during breathing",
+    "variations": [
+      "pleural membrane",
+      "pleural membranes"
+    ],
+    "emoji": "🫁🛡️",
+    "id": "gl397"
+  },
+  "pneumatophores": {
+    "word": "pneumatophores",
+    "definition": "special breathing roots that grow above water or mud to take in air",
+    "variations": [
+      "pneumatophore",
+      "pneumatophores"
+    ],
+    "emoji": "🌿🫧",
+    "id": "gl398"
+  },
+  "pneumonia": {
+    "word": "pneumonia",
+    "definition": "an infection or inflammation of the lungs that makes breathing difficult.",
+    "variations": [
+      "pneumonia"
+    ],
+    "emoji": "🫁🤒",
+    "id": "gl399"
+  },
+  "polysaccharide": {
+    "word": "polysaccharide",
+    "definition": "a carbohydrate made of many simple sugar units joined together",
+    "variations": [
+      "polysaccharide",
+      "polysaccharides"
+    ],
+    "emoji": "🍞🔗",
+    "id": "gl400"
+  },
+  "potometer": {
+    "word": "potometer",
+    "definition": "an instrument used to measure how fast a plant shoot takes up water",
+    "variations": [
+      "potometer",
+      "potometers"
+    ],
+    "emoji": "🧪🌿📏",
+    "id": "gl401"
+  },
+  "predator": {
+    "word": "predator",
+    "definition": "an animal that hunts and eats another animal",
+    "variations": [
+      "predator",
+      "predators"
+    ],
+    "emoji": "🦅🦁",
+    "id": "gl402"
+  },
+  "premolar": {
+    "word": "premolar",
+    "definition": "a tooth used for crushing and grinding food",
+    "variations": [
+      "premolar",
+      "premolars"
+    ],
+    "emoji": "🦷🪨",
+    "id": "gl403"
+  },
+  "prey": {
+    "word": "prey",
+    "definition": "an animal that is hunted and eaten by another animal",
+    "variations": [
+      "prey",
+      "preys"
+    ],
+    "emoji": "🐇🦌",
+    "id": "gl404"
+  },
+  "procedure": {
+    "word": "procedure",
+    "definition": "the set of steps followed to do an experiment or test",
+    "variations": [
+      "procedure",
+      "procedures"
+    ],
+    "emoji": "📋👣",
+    "id": "gl405"
+  },
+  "processed food": {
+    "word": "processed food",
+    "definition": "food that has been changed from its natural form, often with added sugar, salt, or fat",
+    "variations": [
+      "processed food",
+      "processed foods"
+    ],
+    "emoji": "🥫🏭",
+    "id": "gl406"
+  },
+  "protein": {
+    "word": "protein",
+    "definition": "a nutrient needed for growth, repair of body tissues, and making important body substances",
+    "variations": [
+      "protein",
+      "proteins"
+    ],
+    "emoji": "🥚💪",
+    "id": "gl407"
+  },
+  "prothrombin": {
+    "word": "prothrombin",
+    "definition": "an inactive blood protein that changes into thrombin during clotting",
+    "variations": [
+      "prothrombin"
+    ],
+    "emoji": "🩸🔄",
+    "id": "gl408"
+  },
+  "psychological factor": {
+    "word": "psychological factor",
+    "definition": "a feeling or mental condition that affects a person’s behaviour or choices",
+    "variations": [
+      "psychological factor",
+      "psychological factors"
+    ],
+    "emoji": "🧠💭",
+    "id": "gl409"
+  },
+  "pulmonary artery": {
+    "word": "pulmonary artery",
+    "definition": "the artery that carries deoxygenated blood from the heart to the lungs.",
+    "variations": [
+      "pulmonary arteries"
+    ],
+    "emoji": "🫁🩸",
+    "id": "gl410"
+  },
+  "pulmonary circulation": {
+    "word": "pulmonary circulation",
+    "definition": "the movement of blood between the heart and the lungs",
+    "variations": [
+      "pulmonary circulation"
+    ],
+    "emoji": "🫁🫀",
+    "id": "gl411"
+  },
+  "pulmonary vein": {
+    "word": "pulmonary vein",
+    "definition": "the vein that carries oxygenated blood from the lungs to the heart.",
+    "variations": [
+      "pulmonary veins"
+    ],
+    "emoji": "🫁🩸",
+    "id": "gl412"
+  },
+  "pulse": {
+    "word": "pulse",
+    "definition": "the regular throbbing felt in an artery as the heart pumps blood.",
+    "variations": [
+      "pulse rate",
+      "pulses"
+    ],
+    "emoji": "💓🩸",
+    "id": "gl413"
+  },
+  "pulse rate": {
+    "word": "pulse rate",
+    "definition": "the number of heart beats in one minute",
+    "variations": [
+      "pulse rate",
+      "pulse rates"
+    ],
+    "emoji": "❤️⏱️",
+    "id": "gl414"
+  },
+  "pyloric sphincter": {
+    "word": "pyloric sphincter",
+    "definition": "a ring of muscle at the lower end of the stomach that controls the release of chyme into the duodenum",
+    "variations": [
+      "pyloric sphincter",
+      "pyloric sphincters"
+    ],
+    "emoji": "⭕➡️",
+    "id": "gl415"
+  },
+  "pyruvate": {
+    "word": "pyruvate",
+    "definition": "a substance formed when glucose is broken down during glycolysis",
+    "variations": [
+      "pyruvate",
+      "pyruvic acid"
+    ],
+    "emoji": "🧪⚡",
+    "id": "gl416"
+  },
+  "quarantine": {
+    "word": "quarantine",
+    "definition": "keeping someone apart because they may have been exposed to a disease.",
+    "variations": [
+      "quarantine",
+      "quarantines"
+    ],
+    "emoji": "🏠⏳🦠",
+    "id": "gl417"
+  },
+  "reagent": {
+    "word": "reagent",
+    "definition": "a chemical used in a test to find out what substance is present",
+    "variations": [
+      "reagent",
+      "reagents"
+    ],
+    "emoji": "🧪🔬",
+    "id": "gl418"
+  },
+  "recipient": {
+    "word": "recipient",
+    "definition": "a person who receives blood from a donor",
+    "variations": [
+      "recipient",
+      "recipients"
+    ],
+    "emoji": "🩸⬅️",
+    "id": "gl419"
+  },
+  "rectum": {
+    "word": "rectum",
+    "definition": "the final part of the large intestine where waste is stored before leaving the body",
+    "variations": [
+      "rectum",
+      "rectums"
+    ],
+    "emoji": "➡️🚽",
+    "id": "gl420"
+  },
+  "red blood cell": {
+    "word": "red blood cell",
+    "definition": "a blood cell that carries oxygen around the body",
+    "variations": [
+      "red blood cells"
+    ],
+    "emoji": "🩸⭕",
+    "id": "gl421"
+  },
+  "reducing sugar": {
+    "word": "reducing sugar",
+    "definition": "a sugar that can change Benedict’s solution from blue to other colours when heated",
+    "variations": [
+      "reducing sugar",
+      "reducing sugars"
+    ],
+    "emoji": "🧪🔥🍬",
+    "id": "gl422"
+  },
+  "reflux": {
+    "word": "reflux",
+    "definition": "the backward flow of stomach contents into the oesophagus",
+    "variations": [
+      "reflux",
+      "refluxes",
+      "refluxed"
+    ],
+    "emoji": "⬆️🔥😖",
+    "id": "gl423"
+  },
+  "regurgitate": {
+    "word": "regurgitate",
+    "definition": "to bring swallowed food back up to the mouth",
+    "variations": [
+      "regurgitate",
+      "regurgitated",
+      "regurgitates",
+      "regurgitating"
+    ],
+    "emoji": "⬆️🍽️",
+    "id": "gl424"
+  },
+  "regurgitation": {
+    "word": "regurgitation",
+    "definition": "the return of swallowed food to the mouth for chewing again",
+    "variations": [
+      "regurgitation",
+      "regurgitations"
+    ],
+    "emoji": "↩️👄",
+    "id": "gl425"
+  },
+  "rennin": {
+    "word": "rennin",
+    "definition": "an enzyme that helps to curdle milk in the stomach",
+    "variations": [
+      "rennin"
+    ],
+    "emoji": "🥛🧪",
+    "id": "gl426"
+  },
+  "replicate": {
+    "word": "replicate",
+    "definition": "to make copies of itself",
+    "variations": [
+      "replicate",
+      "replicates",
+      "replicated",
+      "replicating"
+    ],
+    "emoji": "🧬📄",
+    "id": "gl427"
+  },
+  "respiration": {
+    "word": "respiration",
+    "definition": "the process in living things that releases energy from food",
+    "variations": [
+      "respiration"
+    ],
+    "emoji": "🫁⚡",
+    "id": "gl428"
+  },
+  "respiratory surface": {
+    "word": "respiratory surface",
+    "definition": "a body surface where oxygen and carbon dioxide are exchanged",
+    "variations": [
+      "respiratory surface",
+      "respiratory surfaces"
+    ],
+    "emoji": "🫁🔄",
+    "id": "gl429"
+  },
+  "reticulum": {
+    "word": "reticulum",
+    "definition": "the second chamber of a ruminant stomach where food is mixed and softened",
+    "variations": [
+      "reticulum",
+      "reticula"
+    ],
+    "emoji": "🐄🔄",
+    "id": "gl430"
+  },
+  "Rhesus factor": {
+    "word": "Rhesus factor",
+    "definition": "a substance on red blood cells that makes blood Rh positive when present",
+    "variations": [
+      "Rhesus factor"
+    ],
+    "emoji": "🩸➕➖",
+    "id": "gl431"
+  },
+  "rhizoid": {
+    "word": "rhizoid",
+    "definition": "a root-like structure in some simple organisms that helps them attach and absorb nutrients",
+    "variations": [
+      "rhizoid",
+      "rhizoids"
+    ],
+    "emoji": "🍄🪵",
+    "id": "gl432"
+  },
+  "rib cage": {
+    "word": "rib cage",
+    "definition": "the bony structure in the chest that protects the heart and lungs",
+    "variations": [
+      "rib cage",
+      "rib cages"
+    ],
+    "emoji": "🦴🫀🫁",
+    "id": "gl433"
+  },
+  "rickets": {
+    "word": "rickets",
+    "definition": "a disease in children that makes bones soft and weak, often due to lack of vitamin D, calcium, or phosphorus",
+    "variations": [
+      "rickets"
+    ],
+    "emoji": "🦴☀️",
+    "id": "gl434"
+  },
+  "root hair": {
+    "word": "root hair",
+    "definition": "a tiny extension of a root cell that absorbs water and mineral salts from the soil",
+    "variations": [
+      "root hairs"
+    ],
+    "emoji": "🌱💧",
+    "id": "gl435"
+  },
+  "root pressure": {
+    "word": "root pressure",
+    "definition": "the force in roots that pushes water and dissolved mineral salts upward through the xylem",
+    "variations": [
+      "root pressure"
+    ],
+    "emoji": "🌱⬆️💧",
+    "id": "gl436"
+  },
+  "roughage": {
+    "word": "roughage",
+    "definition": "the indigestible fibre in plant food that helps food move through the gut",
+    "variations": [
+      "roughage"
+    ],
+    "emoji": "🥬🌾",
+    "id": "gl437"
+  },
+  "rumen": {
+    "word": "rumen",
+    "definition": "the first and largest chamber of a ruminant stomach where food is stored and mixed with bacteria",
+    "variations": [
+      "rumen",
+      "rumens"
+    ],
+    "emoji": "🐄🫙",
+    "id": "gl438"
+  },
+  "ruminant": {
+    "word": "ruminant",
+    "definition": "an animal such as a cow or goat that chews food, swallows it, and later chews it again",
+    "variations": [
+      "ruminant",
+      "ruminants"
+    ],
+    "emoji": "🐄🐐",
+    "id": "gl439"
+  },
+  "saliva": {
+    "word": "saliva",
+    "definition": "the liquid in the mouth that moistens food and begins digestion",
+    "variations": [
+      "saliva"
+    ],
+    "emoji": "💧👄",
+    "id": "gl440"
+  },
+  "saliva amylase": {
+    "word": "saliva amylase",
+    "definition": "an enzyme in saliva that begins the digestion of starch in the mouth",
+    "variations": [
+      "saliva amylase",
+      "salivary amylase"
+    ],
+    "emoji": "👄🧪",
+    "id": "gl441"
+  },
+  "salivary amylase": {
+    "word": "salivary amylase",
+    "definition": "an enzyme in saliva that breaks down cooked starch into maltose",
+    "variations": [
+      "salivary amylase",
+      "ptyalin"
+    ],
+    "emoji": "👄🧪",
+    "id": "gl442"
+  },
+  "salivary gland": {
+    "word": "salivary gland",
+    "definition": "a gland in the mouth that produces saliva",
+    "variations": [
+      "salivary gland",
+      "salivary glands"
+    ],
+    "emoji": "👄💧",
+    "id": "gl443"
+  },
+  "saprophytic": {
+    "word": "saprophytic",
+    "definition": "feeding on dead and decaying organic matter",
+    "variations": [
+      "saprophytic"
+    ],
+    "emoji": "🍂🦠",
+    "id": "gl444"
+  },
+  "saprophytic nutrition": {
+    "word": "saprophytic nutrition",
+    "definition": "a type of nutrition in which an organism feeds on dead and decaying matter",
+    "variations": [
+      "saprophytic nutrition",
+      "saprophytic",
+      "saprophyte",
+      "saprophytes"
+    ],
+    "emoji": "🍄🪵",
+    "id": "gl445"
+  },
+  "sedentary": {
+    "word": "sedentary",
+    "definition": "spending a lot of time sitting and doing little physical activity",
+    "variations": [
+      "sedentary"
+    ],
+    "emoji": "🪑📺⚠️",
+    "id": "gl446"
+  },
+  "sedentary worker": {
+    "word": "sedentary worker",
+    "definition": "a person whose work involves sitting or staying in one place for long periods",
+    "variations": [
+      "sedentary worker",
+      "sedentary workers"
+    ],
+    "emoji": "🪑💼",
+    "id": "gl447"
+  },
+  "semi-permeable membrane": {
+    "word": "semi-permeable membrane",
+    "definition": "a thin layer that allows some substances, especially water, to pass through but blocks others",
+    "variations": [
+      "partially permeable membrane",
+      "semi-permeable membranes",
+      "partially permeable membranes"
+    ],
+    "emoji": "🧱💧",
+    "id": "gl448"
+  },
+  "semilunar valve": {
+    "word": "semilunar valve",
+    "definition": "a valve at the base of the aorta or pulmonary artery that prevents blood from flowing backward.",
+    "variations": [
+      "semilunar valves"
+    ],
+    "emoji": "🌙🩸",
+    "id": "gl449"
+  },
+  "septum": {
+    "word": "septum",
+    "definition": "the wall that separates the left and right sides of the heart.",
+    "variations": [
+      "septa"
+    ],
+    "emoji": "🧱🫀",
+    "id": "gl450"
+  },
+  "serum": {
+    "word": "serum",
+    "definition": "the clear fluid left after blood has clotted",
+    "variations": [
+      "serum"
+    ],
+    "emoji": "💧🩸",
+    "id": "gl451"
+  },
+  "sickle-cell anaemia": {
+    "word": "sickle-cell anaemia",
+    "definition": "an inherited blood disorder in which red blood cells become sickle-shaped and carry less oxygen",
+    "variations": [
+      "sickle-cell anaemia",
+      "sickle cell anaemia"
+    ],
+    "emoji": "🩸🧬",
+    "id": "gl452"
+  },
+  "sieve plate": {
+    "word": "sieve plate",
+    "definition": "the perforated end wall between sieve tube cells that allows food to pass through",
+    "variations": [
+      "sieve plates"
+    ],
+    "emoji": "🕳️🍃",
+    "id": "gl453"
+  },
+  "sieve tube": {
+    "word": "sieve tube",
+    "definition": "a phloem tube made of joined cells that carries food through the plant",
+    "variations": [
+      "sieve tubes",
+      "sieve tube element",
+      "sieve tube elements"
+    ],
+    "emoji": "🧺🌱",
+    "id": "gl454"
+  },
+  "sinoatrial node": {
+    "word": "sinoatrial node",
+    "definition": "a small group of cells in the heart that starts and controls the heartbeat.",
+    "variations": [
+      "SAN",
+      "sinoatrial nodes",
+      "pacemaker"
+    ],
+    "emoji": "⚡🫀",
+    "id": "gl455"
+  },
+  "small intestine": {
+    "word": "small intestine",
+    "definition": "the long part of the gut where most digestion and absorption take place",
+    "variations": [
+      "small intestine",
+      "small intestines"
+    ],
+    "emoji": "🧬🍽️",
+    "id": "gl456"
+  },
+  "sodium bicarbonate": {
+    "word": "sodium bicarbonate",
+    "definition": "a mild base used to reduce acidity in a mixture",
+    "variations": [
+      "sodium bicarbonate"
+    ],
+    "emoji": "🧪⚖️",
+    "id": "gl457"
+  },
+  "sodium hydroxide": {
+    "word": "sodium hydroxide",
+    "definition": "a strong base used to neutralise acids in experiments",
+    "variations": [
+      "sodium hydroxide"
+    ],
+    "emoji": "🧪⚠️",
+    "id": "gl458"
+  },
+  "solute": {
+    "word": "solute",
+    "definition": "a substance that is dissolved in a liquid",
+    "variations": [
+      "solutes"
+    ],
+    "emoji": "🧂💧",
+    "id": "gl459"
+  },
+  "solvent": {
+    "word": "solvent",
+    "definition": "a liquid that dissolves another substance",
+    "variations": [
+      "solvent",
+      "solvents"
+    ],
+    "emoji": "🧴💧",
+    "id": "gl460"
+  },
+  "specialised cells": {
+    "word": "specialised cells",
+    "definition": "cells that have a particular structure and job in the plant body",
+    "variations": [
+      "specialised cell"
+    ],
+    "emoji": "🔬🧩",
+    "id": "gl461"
+  },
+  "sphincter": {
+    "word": "sphincter",
+    "definition": "a ring of muscle that opens and closes a passage in the body",
+    "variations": [
+      "sphincter",
+      "sphincters"
+    ],
+    "emoji": "⭕💪🚪",
+    "id": "gl462"
+  },
+  "sphygmomanometer": {
+    "word": "sphygmomanometer",
+    "definition": "an instrument used to measure blood pressure",
+    "variations": [
+      "sphygmomanometer",
+      "sphygmomanometers"
+    ],
+    "emoji": "🩺📏",
+    "id": "gl463"
+  },
+  "spina bifida": {
+    "word": "spina bifida",
+    "definition": "a birth condition in which the spine does not form completely",
+    "variations": [
+      "spina bifida"
+    ],
+    "emoji": "🦴⚠️",
+    "id": "gl464"
+  },
+  "spleen": {
+    "word": "spleen",
+    "definition": "an organ that helps remove old blood cells and supports body defense",
+    "variations": [
+      "spleen",
+      "spleens"
+    ],
+    "emoji": "🫀🩸",
+    "id": "gl465"
+  },
+  "spongy mesophyll": {
+    "word": "spongy mesophyll",
+    "definition": "the loose layer inside a leaf with many air spaces for gas exchange",
+    "variations": [
+      "spongy mesophyll"
+    ],
+    "emoji": "🍃🌬️",
+    "id": "gl466"
+  },
+  "starch": {
+    "word": "starch",
+    "definition": "a carbohydrate found in foods like maize, cassava, and potatoes",
+    "variations": [
+      "starch"
+    ],
+    "emoji": "🥔🌽",
+    "id": "gl467"
+  },
+  "sternum": {
+    "word": "sternum",
+    "definition": "the breastbone in the middle of the chest",
+    "variations": [
+      "sternum",
+      "sternebrae"
+    ],
+    "emoji": "🦴胸📍",
+    "id": "gl468"
+  },
+  "stock solution": {
+    "word": "stock solution",
+    "definition": "a prepared solution kept in a container, from which a smaller amount is taken for experiments",
+    "variations": [
+      "stock solution",
+      "stock solutions"
+    ],
+    "emoji": "🧴🧪",
+    "id": "gl469"
+  },
+  "stoma": {
+    "word": "stoma",
+    "definition": "a tiny opening in a leaf that allows gases and water vapour to pass in and out",
+    "variations": [
+      "stoma",
+      "stomata"
+    ],
+    "emoji": "🍃🕳️",
+    "id": "gl470"
+  },
+  "stomach": {
+    "word": "stomach",
+    "definition": "a muscular organ where food is stored and mixed with digestive juices",
+    "variations": [
+      "stomach",
+      "stomachs"
+    ],
+    "emoji": "🍲🫃",
+    "id": "gl471"
+  },
+  "stomata": {
+    "word": "stomata",
+    "definition": "tiny openings on leaves that allow gases and water vapour to move in and out",
+    "variations": [
+      "stoma"
+    ],
+    "emoji": "🍃🫧",
+    "id": "gl472"
+  },
+  "stomatal transpiration": {
+    "word": "stomatal transpiration",
+    "definition": "loss of water through the stomata of leaves",
+    "variations": [
+      "stomatal transpiration"
+    ],
+    "emoji": "🍃💧",
+    "id": "gl473"
+  },
+  "stroke": {
+    "word": "stroke",
+    "definition": "a condition that happens when blood flow to part of the brain is blocked or a blood vessel in the brain bursts",
+    "variations": [
+      "stroke",
+      "strokes"
+    ],
+    "emoji": "🧠⚠️",
+    "id": "gl474"
+  },
+  "substrate": {
+    "word": "substrate",
+    "definition": "the material or surface on which an organism grows or acts",
+    "variations": [
+      "substrate",
+      "substrates"
+    ],
+    "emoji": "🪵🧫",
+    "id": "gl475"
+  },
+  "succus entericus": {
+    "word": "succus entericus",
+    "definition": "intestinal juice made in the small intestine that contains enzymes for completing digestion",
+    "variations": [
+      "succus entericus",
+      "intestinal juice"
+    ],
+    "emoji": "🧪🫗",
+    "id": "gl476"
+  },
+  "sucrase": {
+    "word": "sucrase",
+    "definition": "an enzyme that changes sucrose into glucose and fructose",
+    "variations": [
+      "sucrase",
+      "sucrases"
+    ],
+    "emoji": "🍬🧪",
+    "id": "gl477"
+  },
+  "sucrose": {
+    "word": "sucrose",
+    "definition": "common table sugar made from glucose and fructose",
+    "variations": [
+      "sucrose"
+    ],
+    "emoji": "🍚🍬",
+    "id": "gl478"
+  },
+  "Sudan III": {
+    "word": "Sudan III",
+    "definition": "a dye used to test for lipids by colouring the oil layer red",
+    "variations": [
+      "Sudan III"
+    ],
+    "emoji": "🧪🔴",
+    "id": "gl479"
+  },
+  "Sudan III test": {
+    "word": "Sudan III test",
+    "definition": "a food test used to detect fats and oils",
+    "variations": [
+      "Sudan III test",
+      "Sudan III tests"
+    ],
+    "emoji": "🧪🔴",
+    "id": "gl480"
+  },
+  "surface area": {
+    "word": "surface area",
+    "definition": "the total area of the outside of something; increasing it helps enzymes work faster",
+    "variations": [
+      "surface area",
+      "surface areas"
+    ],
+    "emoji": "📐🧪",
+    "id": "gl481"
+  },
+  "surface area to volume ratio": {
+    "word": "surface area to volume ratio",
+    "definition": "the relationship between the outside area of an object and the space inside it; it affects how fast materials move in or out",
+    "variations": [
+      "surface area-to-volume ratio",
+      "surface area to volume ratios"
+    ],
+    "emoji": "📐🔬",
+    "id": "gl482"
+  },
+  "suspension": {
+    "word": "suspension",
+    "definition": "a mixture in which small particles are spread through a liquid without dissolving",
+    "variations": [
+      "suspension",
+      "suspensions"
+    ],
+    "emoji": "🧪🌫️",
+    "id": "gl483"
+  },
+  "symbiosis": {
+    "word": "symbiosis",
+    "definition": "a close living relationship between two different organisms",
+    "variations": [
+      "symbiosis",
+      "symbiotic"
+    ],
+    "emoji": "🤝🌿",
+    "id": "gl484"
+  },
+  "symbiotic nutrition": {
+    "word": "symbiotic nutrition",
+    "definition": "a feeding relationship between two different species living closely together, where one or both benefit",
+    "variations": [
+      "symbiotic nutrition",
+      "symbiotic",
+      "symbiosis"
+    ],
+    "emoji": "🤝🌿",
+    "id": "gl485"
+  },
+  "systemic circulation": {
+    "word": "systemic circulation",
+    "definition": "the movement of blood between the heart and the rest of the body, except the lungs",
+    "variations": [
+      "systemic circulation"
+    ],
+    "emoji": "🫀🩸",
+    "id": "gl486"
+  },
+  "systole": {
+    "word": "systole",
+    "definition": "the stage of the heartbeat when the heart contracts and pumps blood out",
+    "variations": [
+      "systole"
+    ],
+    "emoji": "❤️⬆️",
+    "id": "gl487"
+  },
+  "systolic pressure": {
+    "word": "systolic pressure",
+    "definition": "the pressure in the arteries when the ventricles contract",
+    "variations": [
+      "systolic pressure",
+      "systole",
+      "systolic"
+    ],
+    "emoji": "🫀⬆️",
+    "id": "gl488"
+  },
+  "T-helper cell": {
+    "word": "T-helper cell",
+    "definition": "a type of white blood cell that helps control the body’s immune response",
+    "variations": [
+      "T-helper cell",
+      "T-helper cells"
+    ],
+    "emoji": "⚪🛡️🧬",
+    "id": "gl489"
+  },
+  "tap root": {
+    "word": "tap root",
+    "definition": "a single thick main root that grows deep into the soil",
+    "variations": [
+      "tap roots"
+    ],
+    "emoji": "🌱⬇️",
+    "id": "gl490"
+  },
+  "thoracic cavity": {
+    "word": "thoracic cavity",
+    "definition": "the chest space that contains the lungs and heart",
+    "variations": [
+      "thoracic cavity",
+      "thoracic cavities"
+    ],
+    "emoji": "🫁🫀",
+    "id": "gl491"
+  },
+  "thorax": {
+    "word": "thorax",
+    "definition": "the chest part of the body between the neck and the abdomen",
+    "variations": [
+      "thorax",
+      "thoraxes",
+      "thoracic"
+    ],
+    "emoji": "🫁🧍",
+    "id": "gl492"
+  },
+  "thrombin": {
+    "word": "thrombin",
+    "definition": "a blood protein that helps change fibrinogen into fibrin during clotting",
+    "variations": [
+      "thrombin"
+    ],
+    "emoji": "🩸⚙️",
+    "id": "gl493"
+  },
+  "thrombocyte": {
+    "word": "thrombocyte",
+    "definition": "another name for a platelet",
+    "variations": [
+      "thrombocyte",
+      "thrombocytes"
+    ],
+    "emoji": "🩸🩹",
+    "id": "gl494"
+  },
+  "thromboplastin": {
+    "word": "thromboplastin",
+    "definition": "a substance that starts the blood clotting process after injury",
+    "variations": [
+      "thromboplastin"
+    ],
+    "emoji": "🩸▶️",
+    "id": "gl495"
+  },
+  "tissue": {
+    "word": "tissue",
+    "definition": "a group of similar cells working together to do a special job",
+    "variations": [
+      "tissue",
+      "tissues"
+    ],
+    "emoji": "🧬🔬",
+    "id": "gl496"
+  },
+  "tissue fluid": {
+    "word": "tissue fluid",
+    "definition": "fluid formed from blood plasma that surrounds body cells and helps exchange materials between blood and cells",
+    "variations": [
+      "tissue fluid",
+      "tissue fluids"
+    ],
+    "emoji": "💧🧫",
+    "id": "gl497"
+  },
+  "toxin": {
+    "word": "toxin",
+    "definition": "a harmful poison made by some living things such as bacteria",
+    "variations": [
+      "toxin",
+      "toxins"
+    ],
+    "emoji": "☠️🦠",
+    "id": "gl498"
+  },
+  "trachea": {
+    "word": "trachea",
+    "definition": "the tube that carries air to and from the lungs",
+    "variations": [
+      "trachea",
+      "tracheae"
+    ],
+    "emoji": "🫁💨",
+    "id": "gl499"
+  },
+  "tracheal system": {
+    "word": "tracheal system",
+    "definition": "a system of air tubes in insects used for breathing",
+    "variations": [
+      "tracheal system",
+      "tracheal systems"
+    ],
+    "emoji": "🐞🌬️",
+    "id": "gl500"
+  },
+  "tracheid": {
+    "word": "tracheid",
+    "definition": "a long, narrow dead xylem cell that helps transport water and also supports the plant",
+    "variations": [
+      "tracheids"
+    ],
+    "emoji": "💧🌿",
+    "id": "gl501"
+  },
+  "translocation": {
+    "word": "translocation",
+    "definition": "the movement of manufactured food in plants from leaves to other parts of the plant",
+    "variations": [
+      "translocate",
+      "translocated",
+      "translocates",
+      "translocating"
+    ],
+    "emoji": "🌿🍬➡️",
+    "id": "gl502"
+  },
+  "translucent": {
+    "word": "translucent",
+    "definition": "allowing light to pass through, but not clearly enough to see details",
+    "variations": [
+      "translucent"
+    ],
+    "emoji": "📄💡",
+    "id": "gl503"
+  },
+  "transpiration": {
+    "word": "transpiration",
+    "definition": "the loss of water vapour from a plant, mainly through the leaves",
+    "variations": [
+      "transpirations"
+    ],
+    "emoji": "💨💧🍃",
+    "id": "gl504"
+  },
+  "transpiration pull": {
+    "word": "transpiration pull",
+    "definition": "the pulling force created when water evaporates from leaves, drawing more water up through the xylem",
+    "variations": [
+      "transpiration pull"
+    ],
+    "emoji": "⬆️💧🌿",
+    "id": "gl505"
+  },
+  "transpiration stream": {
+    "word": "transpiration stream",
+    "definition": "the continuous flow of water through the xylem from roots to leaves",
+    "variations": [
+      "transpiration stream",
+      "transpiration streams"
+    ],
+    "emoji": "💧➡️🌱",
+    "id": "gl506"
+  },
+  "transport": {
+    "word": "transport",
+    "definition": "the movement of materials from one place to another in an organism",
+    "variations": [
+      "transport",
+      "transports",
+      "transported",
+      "transporting"
+    ],
+    "emoji": "➡️🔄🧬",
+    "id": "gl507"
+  },
+  "tricuspid valve": {
+    "word": "tricuspid valve",
+    "definition": "the valve between the right auricle and the right ventricle.",
+    "variations": [
+      "tricuspid valves"
+    ],
+    "emoji": "🫀🚪",
+    "id": "gl508"
+  },
+  "trypsin": {
+    "word": "trypsin",
+    "definition": "an enzyme that breaks down proteins in the small intestine",
+    "variations": [
+      "trypsin"
+    ],
+    "emoji": "🧪🥩",
+    "id": "gl509"
+  },
+  "trypsinogen": {
+    "word": "trypsinogen",
+    "definition": "the inactive form of trypsin",
+    "variations": [
+      "trypsinogen"
+    ],
+    "emoji": "⏸️🧪",
+    "id": "gl510"
+  },
+  "tuberculosis": {
+    "word": "tuberculosis",
+    "definition": "a serious infectious disease, usually affecting the lungs, caused by bacteria.",
+    "variations": [
+      "tuberculosis"
+    ],
+    "emoji": "🦠🫁",
+    "id": "gl511"
+  },
+  "turgid": {
+    "word": "turgid",
+    "definition": "swollen and firm because a plant cell has taken in water",
+    "variations": [
+      "turgidity"
+    ],
+    "emoji": "🌿💧",
+    "id": "gl512"
+  },
+  "ulcer": {
+    "word": "ulcer",
+    "definition": "a sore that forms on the lining of an organ, such as the stomach",
+    "variations": [
+      "ulcer",
+      "ulcers",
+      "ulcerated"
+    ],
+    "emoji": "🩹😖🫃",
+    "id": "gl513"
+  },
+  "unicellular organism": {
+    "word": "unicellular organism",
+    "definition": "a living thing made of only one cell",
+    "variations": [
+      "unicellular organisms"
+    ],
+    "emoji": "🦠1️⃣",
+    "id": "gl514"
+  },
+  "universal donor": {
+    "word": "universal donor",
+    "definition": "a person whose blood can be given to people of all ABO blood groups",
+    "variations": [
+      "universal donor",
+      "universal donors"
+    ],
+    "emoji": "🩸🌍",
+    "id": "gl515"
+  },
+  "universal recipient": {
+    "word": "universal recipient",
+    "definition": "a person who can receive blood from all ABO blood groups",
+    "variations": [
+      "universal recipient",
+      "universal recipients"
+    ],
+    "emoji": "🩸📥",
+    "id": "gl516"
+  },
+  "vaccination": {
+    "word": "vaccination",
+    "definition": "the act of giving a vaccine to protect against disease.",
+    "variations": [
+      "vaccination",
+      "vaccinations"
+    ],
+    "emoji": "💉🛡️",
+    "id": "gl517"
+  },
+  "vacuole": {
+    "word": "vacuole",
+    "definition": "a space inside a cell that stores water, cell sap, and other materials",
+    "variations": [
+      "vacuole",
+      "vacuoles"
+    ],
+    "emoji": "🫧🔬",
+    "id": "gl518"
+  },
+  "valve": {
+    "word": "valve",
+    "definition": "a flap-like structure that keeps blood flowing in one direction.",
+    "variations": [
+      "valves"
+    ],
+    "emoji": "🚪🩸",
+    "id": "gl519"
+  },
+  "vascular bundle": {
+    "word": "vascular bundle",
+    "definition": "a group of transport tissues in a plant, usually made of xylem and phloem together",
+    "variations": [
+      "vascular bundles"
+    ],
+    "emoji": "🌿🧩",
+    "id": "gl520"
+  },
+  "vascular cambium": {
+    "word": "vascular cambium",
+    "definition": "a layer of dividing cells in a stem that produces new xylem and phloem",
+    "variations": [],
+    "emoji": "🔄🌿",
+    "id": "gl521"
+  },
+  "vascular system": {
+    "word": "vascular system",
+    "definition": "the plant transport system made of tissues that carry water, mineral salts, and food to different parts of the plant",
+    "variations": [
+      "vascular systems"
+    ],
+    "emoji": "🌿🚰",
+    "id": "gl522"
+  },
+  "vein": {
+    "word": "vein",
+    "definition": "a line of vascular tissue in a leaf that carries water and food",
+    "variations": [
+      "veins"
+    ],
+    "emoji": "🍃🛤️",
+    "id": "gl523"
+  },
+  "vena cava": {
+    "word": "vena cava",
+    "definition": "the largest vein that carries deoxygenated blood from the body to the heart.",
+    "variations": [
+      "superior vena cava",
+      "inferior vena cava"
+    ],
+    "emoji": "🩸⬅️",
+    "id": "gl524"
+  },
+  "ventricle": {
+    "word": "ventricle",
+    "definition": "a lower chamber of the heart that pumps blood out of the heart.",
+    "variations": [
+      "ventricles"
+    ],
+    "emoji": "🫀⬇️",
+    "id": "gl525"
+  },
+  "venule": {
+    "word": "venule",
+    "definition": "a very small vein that connects capillaries to veins",
+    "variations": [
+      "venule",
+      "venules"
+    ],
+    "emoji": "🩸🔗",
+    "id": "gl526"
+  },
+  "vertebrates": {
+    "word": "vertebrates",
+    "definition": "animals that have a backbone",
+    "variations": [
+      "vertebrate",
+      "vertebrates"
+    ],
+    "emoji": "🦴🐾",
+    "id": "gl527"
+  },
+  "vessel element": {
+    "word": "vessel element",
+    "definition": "a xylem cell that joins with others end to end to form a tube for carrying water",
+    "variations": [
+      "vessel elements",
+      "xylem vessel element",
+      "xylem vessel elements"
+    ],
+    "emoji": "🧪💧",
+    "id": "gl528"
+  },
+  "villi": {
+    "word": "villi",
+    "definition": "small finger-like projections in the small intestine that increase absorption",
+    "variations": [
+      "villus",
+      "villi"
+    ],
+    "emoji": "👆🫃🧽",
+    "id": "gl529"
+  },
+  "villus": {
+    "word": "villus",
+    "definition": "a small finger-like projection in the small intestine that increases surface area for absorption",
+    "variations": [
+      "villus",
+      "villi"
+    ],
+    "emoji": "👆🩸",
+    "id": "gl530"
+  },
+  "vitamin": {
+    "word": "vitamin",
+    "definition": "an organic nutrient needed in small amounts for normal growth and body functions",
+    "variations": [
+      "vitamin",
+      "vitamins"
+    ],
+    "emoji": "🥕💊",
+    "id": "gl531"
+  },
+  "water potential": {
+    "word": "water potential",
+    "definition": "a measure of how freely water can move in a solution",
+    "variations": [
+      "water potentials"
+    ],
+    "emoji": "💧📏",
+    "id": "gl532"
+  },
+  "water vapour": {
+    "word": "water vapour",
+    "definition": "water in gas form in the air",
+    "variations": [],
+    "emoji": "💧☁️",
+    "id": "gl533"
+  },
+  "water-soluble": {
+    "word": "water-soluble",
+    "definition": "able to dissolve in water and not usually stored in the body",
+    "variations": [
+      "water-soluble"
+    ],
+    "emoji": "💧💊",
+    "id": "gl534"
+  },
+  "white blood cell": {
+    "word": "white blood cell",
+    "definition": "a blood cell that helps the body fight disease and infection",
+    "variations": [
+      "white blood cell",
+      "white blood cells"
+    ],
+    "emoji": "⚪🩸🛡️",
+    "id": "gl535"
+  },
+  "whole grain": {
+    "word": "whole grain",
+    "definition": "grain food that keeps all its natural parts and is healthier than refined grain",
+    "variations": [
+      "whole grain",
+      "whole grains"
+    ],
+    "emoji": "🌾🍞",
+    "id": "gl536"
+  },
+  "xylem": {
+    "word": "xylem",
+    "definition": "plant tissue that transports water and minerals from the roots to other parts of the plant",
+    "variations": [],
+    "emoji": "🌳💧",
+    "id": "gl537"
+  },
+  "zinc": {
+    "word": "zinc",
+    "definition": "a mineral needed for growth, healing, and a strong immune system",
+    "variations": [
+      "zinc"
+    ],
+    "emoji": "🛡️🌱",
+    "id": "gl538"
+  }
+}

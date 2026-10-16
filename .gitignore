@@ -12,6 +12,7 @@ logs/
 llm-logs/
 prompts/
 responses/
+audio/
 debug/
 screenshots/
 renders/
