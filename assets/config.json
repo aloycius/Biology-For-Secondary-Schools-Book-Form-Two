@@ -1,5 +1,5 @@
 {
-  "title": "Biology for Secondary Schools",
+  "title": "Biology for Secondary Schools - Form Two",
   "bundleVersion": "1",
   "languages": {
     "available": [
@@ -20,7 +20,7 @@
     "notepad": false,
     "state": true,
     "characterDisplay": false,
-    "highlight": false,
+    "highlight": true,
     "activities": true
   },
   "analytics": {

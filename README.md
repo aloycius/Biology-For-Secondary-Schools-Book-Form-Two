@@ -4,19 +4,22 @@ Static ADT Studio HTML/CSS conversion of **Biology for Secondary Schools, Studen
 
 ## Open
 
-Open `index.html` in a browser, or serve this repository with any static web server.
+Read the [online book](https://aloycius.github.io/Biology-For-Secondary-Schools-Book-Form-Two/), open `index.html` locally, or use any static web server.
 
 ## Contents
 
-- Fixed-layout HTML pages for the converted book
+- All 176 source pages as fixed-layout HTML/CSS with selectable text
 - Shared CSS and JavaScript reader runtime
 - Extracted page images, figures, fonts, and navigation metadata
 - Generated quiz pages
+- English read-aloud audio with word highlighting, pause, skip, speed, and volume controls
 
 ## Not Included
 
-This repository intentionally does not include the source PDF, ADT SQLite database, LLM logs, prompts, caches, API keys, audio cache, or local audit/debug files.
+This repository intentionally does not include the source PDF, ADT SQLite database, LLM logs, prompts, caches, API keys, or local audit/debug files. Published MP3 files are reader assets, not the private generation cache.
 
 ## Conversion Notes
 
-This is a first static web conversion pass. The output is real HTML/CSS with selectable text, not full-page screenshot facsimiles. Known follow-up items include typography weight, footer/header artwork fidelity, and some index/back-matter line spacing.
+Reconverted with ADT Studio using the `adt-book-conversion` skill. Text, figures, headings, formulas, and tables retain source-measured positioning. Text is rendered as visible HTML, not painted over full-page screenshots. Print production marks outside the reading page are omitted.
+
+The source book's copyright notices remain in the book. This conversion does not grant a new license to the textbook content.
